@@ -1,0 +1,692 @@
+﻿1
+00:00:00,260 --> 00:00:02,870
+Design is essential
+in today's world.
+设计在当今世界是至关重要的，
+
+2
+00:00:02,870 --> 00:00:06,880
+It defines your experiences 
+and your emotions.
+它决定了你的体验和情感。
+
+3
+00:00:06,880 --> 00:00:09,920
+So we challenged ourselves to
+create a design that was not
+所以我们挑战自我，创建了一个
+
+4
+00:00:09,920 --> 00:00:12,709
+just for Android
+ phones and tablets.
+不仅仅适用于Android手机和平板的设计理念。
+
+5
+00:00:12,710 --> 00:00:17,300
+We worked together-- Android,
+Chrome, and across all
+Android，Chrome 以及谷歌的其他产品部门一起合作
+
+6
+00:00:17,300 --> 00:00:20,950
+of Google-- to craft
+ one consistent  vision
+构建了一个适配移动、桌面
+
+7
+00:00:20,950 --> 00:00:25,209
+for mobile, desktop, and beyond.
+甚至更广泛设备的一致的设计。
+
+8
+00:00:25,210 --> 00:00:28,340
+We wanted a design that 
+was clear and simple,
+我们希望有一种简明的、
+
+9
+00:00:28,340 --> 00:00:31,290
+and that people would 
+intuitively understand.
+人们一目了然的设计。
+
+10
+00:00:31,290 --> 00:00:35,709
+So we imagined, what
+if pixels didn't just
+让我们想象，假如像素不仅仅有颜色
+
+11
+00:00:35,710 --> 00:00:39,020
+have color, but also depth?
+而且有深度，这会怎样？
+
+12
+00:00:39,020 --> 00:00:41,250
+What if there was an
+intelligent material that
+假如有这么一种智能化的材料
+
+13
+00:00:41,250 --> 00:00:44,850
+was as simple as paper but
+could transform and change
+外观像纸片一样，却能够响应触摸
+
+14
+00:00:44,850 --> 00:00:46,380
+shape in response to touch?
+来变化形状和内容，会怎么样？
+
+15
+00:00:46,380 --> 00:00:51,130
+
+
+16
+00:00:51,130 --> 00:00:53,450
+And this led us to
+a way of thinking
+这就将我们引入了一种思维方式
+
+17
+00:00:53,450 --> 00:00:55,089
+that we call material design.
+我们称之为“Material Design”
+
+18
+00:00:55,090 --> 00:01:46,762
+
+
+19
+00:01:46,762 --> 00:01:51,280
+[APPLAUSE]
+
+20
+00:01:51,280 --> 00:01:54,990
+We drew inspiration
+from paper and ink.
+我们从纸墨汲取灵感
+
+21
+00:01:54,990 --> 00:01:58,670
+However, unlike real
+paper, our digital material
+却不同于真实的纸片，我们的数字材料
+
+22
+00:01:58,670 --> 00:02:02,520
+can expand, reform, and
+reshape intelligently.
+可以智能地伸展、重塑、变形。
+
+23
+00:02:02,520 --> 00:02:06,050
+The material has physical
+surfaces and edges
+这些材料具有物理的表面和边缘
+
+24
+00:02:06,050 --> 00:02:09,880
+because the human mind is wired
+at its most primitive level
+因为人的思维依赖用最原始的方式
+
+25
+00:02:09,880 --> 00:02:12,070
+to instinctively
+understand objects
+去本能得了解对象
+
+26
+00:02:12,070 --> 00:02:13,560
+and their relationships.
+与他们之间的关系。
+
+27
+00:02:13,560 --> 00:02:15,780
+Those scenes and
+shadows provide meaning
+这些情景和阴影为人们提供了
+
+28
+00:02:15,780 --> 00:02:19,230
+about what you can touch
+and how it will move.
+操作的指引以及这些对象的运动方式。
+
+29
+00:02:19,230 --> 00:02:23,480
+In the real world, every small
+change in position and depth
+在现实世界中，位置和深度的每一次小调整
+
+30
+00:02:23,480 --> 00:02:26,230
+creates subtle but
+important changes
+都会对光影产生微妙但重要的改变。
+
+31
+00:02:26,230 --> 00:02:28,510
+in lighting and shadows.
+
+32
+00:02:28,510 --> 00:02:31,920
+So as part of the L preview,
+we'll now allow app developers
+作为L预览版的一部分，我们允许开发者
+
+33
+00:02:31,920 --> 00:02:36,700
+to specify an elevation
+value for any UI surface,
+指定任意UI表面的高度
+
+34
+00:02:36,700 --> 00:02:40,310
+and the framework will render
+it in correct perspective
+之后系统框架会应用虚拟光源和实时阴影
+
+35
+00:02:40,310 --> 00:02:43,892
+with virtual light sources
+and real time shadows.
+以正确的透视角度来呈现他们。
+
+36
+00:02:43,892 --> 00:02:48,719
+[APPLAUSE]
+
+37
+00:02:48,719 --> 00:02:51,269
+Material design is
+beautiful and bold
+Material design既华丽又大胆
+
+38
+00:02:51,270 --> 00:02:53,620
+because clean,
+typographical layouts
+因其简洁的、类似印刷品的布局
+
+39
+00:02:53,620 --> 00:02:56,258
+are simple and
+easy to understand.
+非常容易被用户理解。
+
+40
+00:02:56,258 --> 00:02:58,599
+Your content is the focus.
+你的内容会很自然得成为焦点。
+
+41
+00:02:58,600 --> 00:03:00,979
+So the L preview will
+allow app developers
+L预览版让开发者
+
+42
+00:03:00,979 --> 00:03:04,469
+to easily colorize all
+framework elements in your app
+轻松地为所有框架元素上色
+
+43
+00:03:04,469 --> 00:03:06,950
+to match the theme
+to your brand.
+将应用程序的主题与你的品牌相匹配
+
+44
+00:03:06,950 --> 00:03:09,220
+And we're previewing
+a new support library
+我们正在测试一个新的、称之为“调色板”的支持库
+
+45
+00:03:09,220 --> 00:03:12,850
+that we call Palette to easily
+extract colors from image
+可以轻松的从图像中提取颜色
+
+46
+00:03:12,850 --> 00:03:17,020
+and really put those vivid
+pictures front and center.
+将生动详实的图片置于屏幕中最重要的地位。
+
+47
+00:03:17,020 --> 00:03:21,360
+We're giving designers familiar
+tools like baseline grids
+现在提供设计师们熟悉的基线与网格工具
+
+48
+00:03:21,360 --> 00:03:23,320
+that work across screens.
+来划分和规划屏幕的内容。
+
+49
+00:03:23,320 --> 00:03:25,720
+Grids ensure apps have
+a consistent rhythm
+网格使应用具有一致的特征
+
+50
+00:03:25,720 --> 00:03:27,610
+and character, and
+this will allow
+这将允许
+
+51
+00:03:27,610 --> 00:03:29,920
+you to start with a
+design on a phone,
+设计师轻松地将手机上的设计
+
+52
+00:03:29,920 --> 00:03:33,810
+and logically and easily bring
+that same design to tablets
+带到平板和桌面上。
+
+53
+00:03:33,810 --> 00:03:35,660
+and laptops.
+
+54
+00:03:35,660 --> 00:03:38,960
+Now, one design doesn't
+mean one size fits all.
+不过，这并不意味着一个不变的设计将应用于所有场合，
+
+55
+00:03:38,960 --> 00:03:42,105
+Our guidelines allow you to
+appropriately adapt the UI,
+我们的设计指南将会允许你将UI调整到最恰当的形式
+
+56
+00:03:42,105 --> 00:03:46,470
+so your users will already
+know their way around your app
+这样你的用户很容易学会如何使用你的应用
+
+57
+00:03:46,470 --> 00:03:48,049
+no matter what
+screen they use it on
+不管他们用哪种屏幕
+
+58
+00:03:48,050 --> 00:03:54,310
+And we've also updated
+our system font, Roboto,
+我们也更新了系统字体Roboto
+
+59
+00:03:54,310 --> 00:03:58,670
+so that designers and developers
+can use one type face designed
+现在设计师和开发者可以在任何屏幕上
+
+60
+00:03:58,670 --> 00:04:02,570
+and optimized for every screen,
+from your watch to your laptop
+使用重新设计和优化的字体，从手表到桌面
+
+61
+00:04:02,570 --> 00:04:05,440
+to your television.
+甚至电视机。
+
+62
+00:04:05,440 --> 00:04:07,779
+So now let's talk
+about animation.
+让我们来谈谈动画效果。
+
+63
+00:04:07,780 --> 00:04:10,880
+It's delightful when your
+touch is rewarded with motion,
+当用材料表面的移动来响应你的触摸，
+
+64
+00:04:10,880 --> 00:04:13,100
+and material
+surfaces slide around
+是多么令人愉悦啊。
+
+65
+00:04:13,100 --> 00:04:15,290
+with the physics of
+card stock, but they
+看起来像真实的一堆纸片，
+
+66
+00:04:15,290 --> 00:04:18,460
+respond to touch with
+splashes of virtual ink
+但它们却能通过虚拟墨水的扩散响应触摸，
+
+67
+00:04:18,460 --> 00:04:20,860
+that are like ripples in a pond.
+就像池塘里泛起的涟漪。
+
+68
+00:04:20,860 --> 00:04:24,250
+As part of the L preview, all of
+your application's UI building
+作为L预览版的一部分，你的应用程序的UI模块
+
+69
+00:04:24,250 --> 00:04:28,319
+blocks have been updated to
+include rich, animated touch
+已经被丰富生动的动画触摸反馈代替。
+
+70
+00:04:28,320 --> 00:04:29,435
+feedback.
+
+71
+00:04:29,435 --> 00:04:31,810
+[APPLAUSE]
+
+72
+00:04:31,810 --> 00:04:36,470
+And no detail is too small to
+bring a smile to your face,
+越多的设计细节，越多的感动
+
+73
+00:04:36,470 --> 00:04:38,910
+like when the reload button
+loops around or the playback
+比如环绕的刷新按钮、
+
+74
+00:04:38,910 --> 00:04:41,490
+controls can change.
+变化的返回键……
+
+75
+00:04:41,490 --> 00:04:44,279
+Finally, in the real world,
+nothing teleports from one
+最后，在现实世界中，没有什么可以远距离传送
+
+76
+00:04:44,280 --> 00:04:46,995
+place to another, and
+that's why it's so important
+这就是为什么屏幕上的每一个变化
+
+77
+00:04:46,995 --> 00:04:49,720
+to animate every
+change on screen
+都要靠动画来呈现
+
+78
+00:04:49,720 --> 00:04:52,089
+in a way that makes sense.
+我们认为这很有意义。
+
+79
+00:04:52,090 --> 00:04:54,110
+In the L preview,
+Android developers
+在L预览版中，Android 开发者
+
+80
+00:04:54,110 --> 00:04:57,120
+will now be able to
+create seamless animations
+可以创建无缝的动画
+
+81
+00:04:57,120 --> 00:05:01,060
+from any screen to any other
+between activities, and even
+在不同的事件界面之间
+
+82
+00:05:01,060 --> 00:05:03,000
+between apps.
+甚至在不同的应用之间。
+
+83
+00:05:03,000 --> 00:05:06,470
+[APPLAUSE]
+
+84
+00:05:06,470 --> 00:05:09,969
+So you're probably wondering
+how this looks like in practice.
+所以你一定想看一看这一设计理念具体是怎样实践的
+
+85
+00:05:09,969 --> 00:05:11,760
+We're going to give
+you a sneak peak at one
+接下来我们会给大家简单展示一下
+
+86
+00:05:11,760 --> 00:05:13,720
+of our familiar
+Google applications
+我们熟悉的谷歌应用程序
+
+87
+00:05:13,720 --> 00:05:15,005
+in the new material design.
+是如何应用Material Design的。
+
+88
+00:05:15,005 --> 00:05:17,890
+
+
+89
+00:05:17,890 --> 00:05:20,010
+Here you can see,
+step by step, how
+我们来看，如何一步一步
+
+90
+00:05:20,010 --> 00:05:25,869
+we update the design--
+the typography,
+更新设计——重新排版
+
+91
+00:05:25,870 --> 00:05:34,320
+the grid changes, and finally,
+the surfaces and bold colors.
+调整格局，最后，改变表面形态和大胆的用色。
+
+92
+00:05:34,320 --> 00:05:38,630
+And a few small changes make
+a really big difference.
+一些小小的改变，让应用焕然一新。
+
+93
+00:05:38,630 --> 00:05:40,230
+And you can also
+see how easy it is
+你也看到了
+
+94
+00:05:40,230 --> 00:05:42,474
+to take that same design
+to different screens.
+将相同的设计适配多种屏幕是多么简单。
+
+95
+00:05:42,475 --> 00:05:45,910
+
+
+96
+00:05:45,910 --> 00:05:48,420
+Now, I've talked
+about only a few
+目前我只是介绍了一些
+
+97
+00:05:48,420 --> 00:05:51,019
+of the highlights of
+material design and just some
+Material Design 中的亮点
+
+98
+00:05:51,020 --> 00:05:55,280
+of the APIs that you can try
+out in the Android L preview.
+和一些你能在L预览版中使用的API
+
+99
+00:05:55,280 --> 00:05:59,020
+But as we all know, people
+spend an enormous amount of time
+但是我们都知道，人们花费大量时间
+
+100
+00:05:59,020 --> 00:06:02,120
+on the web, and
+especially the mobile web.
+在互联网上，尤其是移动互联网。
+
+101
+00:06:02,120 --> 00:06:04,680
+Last year at I/O, we
+announced Polymer,
+去年的开发者大会，我们发布了Polymer
+
+102
+00:06:04,680 --> 00:06:08,690
+which was a powerful new
+UI library for the web.
+一个全新的、功能强大的用于Web的UI素材库。
+
+103
+00:06:08,690 --> 00:06:11,330
+Today, we're bringing you
+all of the material design
+今天，我们带来了全新的Material Design
+
+104
+00:06:11,330 --> 00:06:15,490
+capabilities to the
+web through Polymer.
+通过Polymer，同样适用于Web上的设计
+
+105
+00:06:15,490 --> 00:06:20,289
+As a web developer, you'll
+be able to build applications
+作为一个Web开发者，你可以使用Material Design中的构件
+
+106
+00:06:20,290 --> 00:06:22,750
+out of material
+design building blocks
+设计你的应用
+
+107
+00:06:22,750 --> 00:06:25,690
+with all of the same
+surfaces, bold graphics,
+一样大胆的外观和图形
+
+108
+00:06:25,690 --> 00:06:28,539
+and smooth animations
+at 60 frames per second.
+以及高达60帧每秒的流畅动画。
+
+109
+00:06:28,540 --> 00:06:33,960
+
+
+110
+00:06:33,960 --> 00:06:36,670
+So between the L
+preview and Polymer,
+有了L 预览版和Ploymer
+
+111
+00:06:36,670 --> 00:06:41,150
+you can bring the same
+rich, fluid material design
+你可以将同样丰富、流畅的Material Design
+
+112
+00:06:41,150 --> 00:06:43,490
+to every screen.
+带到每一块屏幕。
+
+113
+00:06:43,490 --> 00:06:46,490
+And to help you take full
+advantage of this framework,
+为了让你们充分利用这个框架
+
+114
+00:06:46,490 --> 00:06:49,269
+we've also completely
+redesigned and created
+我们为每一种屏幕和设备
+
+115
+00:06:49,270 --> 00:06:53,680
+one unified set of style
+guidelines for every screen
+设计编写了全新的设计指南。
+
+116
+00:06:53,680 --> 00:06:55,480
+and for all devices.
+
+117
+00:06:55,480 --> 00:06:57,760
+These guidelines will help
+designers and developers
+这些指南将有助于设计师和开发者
+
+118
+00:06:57,760 --> 00:07:00,059
+alike understand best
+practices and build
+找到构建一致、美观的应用体验的
+
+119
+00:07:00,060 --> 00:07:03,270
+consistent, beautiful
+experiences.
+最佳的实践方式。
+
+120
+00:07:03,270 --> 00:07:06,490
+We're releasing the first draft
+of these guidelines as part
+我们今天发布了设计指南的第一个草稿
+
+121
+00:07:06,490 --> 00:07:09,769
+of our preview today
+at google.com/design.
+在google.com/design
+
+122
+00:07:09,770 --> 00:07:14,440
+[APPLAUSE]
+
+123
+00:07:14,440 --> 00:07:17,039

@@ -1,0 +1,584 @@
+﻿1
+00:00:00,260 --> 00:00:02,870
+Design is essential
+in today's world.
+
+2
+00:00:02,870 --> 00:00:06,880
+It defines your experiences
+and your emotions.
+
+3
+00:00:06,880 --> 00:00:09,920
+So we challenged ourselves to
+create a design that was not
+
+4
+00:00:09,920 --> 00:00:12,709
+just for Android
+phones and tablets.
+
+5
+00:00:12,710 --> 00:00:17,300
+We worked together-- Android,
+Chrome, and across all
+
+6
+00:00:17,300 --> 00:00:20,950
+of Google-- to craft
+one consistent vision
+
+7
+00:00:20,950 --> 00:00:25,209
+for mobile, desktop, and beyond.
+
+8
+00:00:25,210 --> 00:00:28,340
+We wanted a design that
+was clear and simple,
+
+9
+00:00:28,340 --> 00:00:31,290
+and that people would
+intuitively understand.
+
+10
+00:00:31,290 --> 00:00:35,709
+So we imagined, what
+if pixels didn't just
+
+11
+00:00:35,710 --> 00:00:39,020
+have color, but also depth?
+
+12
+00:00:39,020 --> 00:00:41,250
+What if there was an
+intelligent material that
+
+13
+00:00:41,250 --> 00:00:44,850
+was as simple as paper but
+could transform and change
+
+14
+00:00:44,850 --> 00:00:46,380
+shape in response to touch?
+
+15
+00:00:46,380 --> 00:00:51,130
+
+
+16
+00:00:51,130 --> 00:00:53,450
+And this led us to
+a way of thinking
+
+17
+00:00:53,450 --> 00:00:55,089
+that we call material design.
+
+18
+00:00:55,090 --> 00:01:46,762
+
+
+19
+00:01:46,762 --> 00:01:51,280
+[APPLAUSE]
+
+20
+00:01:51,280 --> 00:01:54,990
+We drew inspiration
+from paper and ink.
+
+21
+00:01:54,990 --> 00:01:58,670
+However, unlike real
+paper, our digital material
+
+22
+00:01:58,670 --> 00:02:02,520
+can expand, reform, and
+reshape intelligently.
+
+23
+00:02:02,520 --> 00:02:06,050
+The material has physical
+surfaces and edges
+
+24
+00:02:06,050 --> 00:02:09,880
+because the human mind is wired
+at its most primitive level
+
+25
+00:02:09,880 --> 00:02:12,070
+to instinctively
+understand objects
+
+26
+00:02:12,070 --> 00:02:13,560
+and their relationships.
+
+27
+00:02:13,560 --> 00:02:15,780
+Those scenes and
+shadows provide meaning
+
+28
+00:02:15,780 --> 00:02:19,230
+about what you can touch
+and how it will move.
+
+29
+00:02:19,230 --> 00:02:23,480
+In the real world, every small
+change in position and depth
+
+30
+00:02:23,480 --> 00:02:26,230
+creates subtle but
+important changes
+
+31
+00:02:26,230 --> 00:02:28,510
+in lighting and shadows.
+
+32
+00:02:28,510 --> 00:02:31,920
+So as part of the L preview,
+we'll now allow app developers
+
+33
+00:02:31,920 --> 00:02:36,700
+to specify an elevation
+value for any UI surface,
+
+34
+00:02:36,700 --> 00:02:40,310
+and the framework will render
+it in correct perspective
+
+35
+00:02:40,310 --> 00:02:43,892
+with virtual light sources
+and real time shadows.
+
+36
+00:02:43,892 --> 00:02:48,719
+[APPLAUSE]
+
+37
+00:02:48,719 --> 00:02:51,269
+Material design is
+beautiful and bold
+
+38
+00:02:51,270 --> 00:02:53,620
+because clean,
+typographical layouts
+
+39
+00:02:53,620 --> 00:02:56,258
+are simple and
+easy to understand.
+
+40
+00:02:56,258 --> 00:02:58,599
+Your content is the focus.
+
+41
+00:02:58,600 --> 00:03:00,979
+So the L preview will
+allow app developers
+
+42
+00:03:00,979 --> 00:03:04,469
+to easily colorize all
+framework elements in your app
+
+43
+00:03:04,469 --> 00:03:06,950
+to match the theme
+to your brand.
+
+44
+00:03:06,950 --> 00:03:09,220
+And we're previewing
+a new support library
+
+45
+00:03:09,220 --> 00:03:12,850
+that we call Palette to easily
+extract colors from images
+
+46
+00:03:12,850 --> 00:03:17,020
+and really put those vivid
+pictures front and center.
+
+47
+00:03:17,020 --> 00:03:21,360
+We're giving designers familiar
+tools like baseline grids
+
+48
+00:03:21,360 --> 00:03:23,320
+that work across screens.
+
+49
+00:03:23,320 --> 00:03:25,720
+Grids ensure apps have
+a consistent rhythm
+
+50
+00:03:25,720 --> 00:03:27,610
+and character, and
+this will allow
+
+51
+00:03:27,610 --> 00:03:29,920
+you to start with a
+design on a phone,
+
+52
+00:03:29,920 --> 00:03:33,810
+and logically and easily bring
+that same design to tablets
+
+53
+00:03:33,810 --> 00:03:35,660
+and laptops.
+
+54
+00:03:35,660 --> 00:03:38,960
+Now, one design doesn't
+mean one size fits all.
+
+55
+00:03:38,960 --> 00:03:42,105
+Our guidelines allow you to
+appropriately adapt the UI,
+
+56
+00:03:42,105 --> 00:03:46,470
+so your users will already
+know their way around your app
+
+57
+00:03:46,470 --> 00:03:48,049
+no matter what
+screen they use it
+
+58
+00:03:48,050 --> 00:03:54,310
+on And we've also updated
+our system font, Roboto,
+
+59
+00:03:54,310 --> 00:03:58,670
+so that designers and developers
+can use one type face designed
+
+60
+00:03:58,670 --> 00:04:02,570
+and optimized for every screen,
+from your watch to your laptop
+
+61
+00:04:02,570 --> 00:04:05,440
+to your television.
+
+62
+00:04:05,440 --> 00:04:07,779
+So now let's talk
+about animation.
+
+63
+00:04:07,780 --> 00:04:10,880
+It's delightful when your
+touch is rewarded with motion,
+
+64
+00:04:10,880 --> 00:04:13,100
+and material
+surfaces slide around
+
+65
+00:04:13,100 --> 00:04:15,290
+with the physics of
+card stock, but they
+
+66
+00:04:15,290 --> 00:04:18,460
+respond to touch with
+splashes of virtual ink
+
+67
+00:04:18,460 --> 00:04:20,860
+that are like ripples in a pond.
+
+68
+00:04:20,860 --> 00:04:24,250
+As part of the L preview, all of
+your application's UI building
+
+69
+00:04:24,250 --> 00:04:28,319
+blocks have been updated to
+include rich, animated touch
+
+70
+00:04:28,320 --> 00:04:29,435
+feedback.
+
+71
+00:04:29,435 --> 00:04:31,810
+[APPLAUSE]
+
+72
+00:04:31,810 --> 00:04:36,470
+And no detail is too small to
+bring a smile to your face,
+
+73
+00:04:36,470 --> 00:04:38,910
+like when the reload button
+loops around or the playback
+
+74
+00:04:38,910 --> 00:04:41,490
+controls can change.
+
+75
+00:04:41,490 --> 00:04:44,279
+Finally, in the real world,
+nothing teleports from one
+
+76
+00:04:44,280 --> 00:04:46,995
+place to another, and
+that's why it's so important
+
+77
+00:04:46,995 --> 00:04:49,720
+to animate every
+change on screen
+
+78
+00:04:49,720 --> 00:04:52,089
+in a way that makes sense.
+
+79
+00:04:52,090 --> 00:04:54,110
+In the L preview,
+Android developers
+
+80
+00:04:54,110 --> 00:04:57,120
+will now be able to
+create seamless animations
+
+81
+00:04:57,120 --> 00:05:01,060
+from any screen to any other
+between activities, and even
+
+82
+00:05:01,060 --> 00:05:03,000
+between apps.
+
+83
+00:05:03,000 --> 00:05:06,470
+[APPLAUSE]
+
+84
+00:05:06,470 --> 00:05:09,969
+So you're probably wondering
+how this looks like in practice.
+
+85
+00:05:09,969 --> 00:05:11,760
+We're going to give
+you a sneak peak at one
+
+86
+00:05:11,760 --> 00:05:13,720
+of our familiar
+Google applications
+
+87
+00:05:13,720 --> 00:05:15,005
+in the new material design.
+
+88
+00:05:15,005 --> 00:05:17,890
+
+
+89
+00:05:17,890 --> 00:05:20,010
+Here you can see,
+step by step, how
+
+90
+00:05:20,010 --> 00:05:25,869
+we update the design--
+the typography,
+
+91
+00:05:25,870 --> 00:05:34,320
+the grid changes, and finally,
+the surfaces and bold colors.
+
+92
+00:05:34,320 --> 00:05:38,630
+And a few small changes make
+a really big difference.
+
+93
+00:05:38,630 --> 00:05:40,230
+And you can also
+see how easy it is
+
+94
+00:05:40,230 --> 00:05:42,474
+to take that same design
+to different screens.
+
+95
+00:05:42,475 --> 00:05:45,910
+
+
+96
+00:05:45,910 --> 00:05:48,420
+Now, I've talked
+about only a few
+
+97
+00:05:48,420 --> 00:05:51,019
+of the highlights of
+material design and just some
+
+98
+00:05:51,020 --> 00:05:55,280
+of the APIs that you can try
+out in the Android L preview.
+
+99
+00:05:55,280 --> 00:05:59,020
+But as we all know, people
+spend an enormous amount of time
+
+100
+00:05:59,020 --> 00:06:02,120
+on the web, and
+especially the mobile web.
+
+101
+00:06:02,120 --> 00:06:04,680
+Last year at I/O, we
+announced Polymer,
+
+102
+00:06:04,680 --> 00:06:08,690
+which was a powerful new
+UI library for the web.
+
+103
+00:06:08,690 --> 00:06:11,330
+Today, we're bringing you
+all of the material design
+
+104
+00:06:11,330 --> 00:06:15,490
+capabilities to the
+web through Polymer.
+
+105
+00:06:15,490 --> 00:06:20,289
+As a web developer, you'll
+be able to build applications
+
+106
+00:06:20,290 --> 00:06:22,750
+out of material
+design building blocks
+
+107
+00:06:22,750 --> 00:06:25,690
+with all of the same
+surfaces, bold graphics,
+
+108
+00:06:25,690 --> 00:06:28,539
+and smooth animations
+at 60 frames per second.
+
+109
+00:06:28,540 --> 00:06:33,960
+
+
+110
+00:06:33,960 --> 00:06:36,670
+So between the L
+preview and Polymer,
+
+111
+00:06:36,670 --> 00:06:41,150
+you can bring the same
+rich, fluid material design
+
+112
+00:06:41,150 --> 00:06:43,490
+to every screen.
+
+113
+00:06:43,490 --> 00:06:46,490
+And to help you take full
+advantage of this framework,
+
+114
+00:06:46,490 --> 00:06:49,269
+we've also completely
+redesigned and created
+
+115
+00:06:49,270 --> 00:06:53,680
+one unified set of style
+guidelines for every screen
+
+116
+00:06:53,680 --> 00:06:55,480
+and for all devices.
+
+117
+00:06:55,480 --> 00:06:57,760
+These guidelines will help
+designers and developers
+
+118
+00:06:57,760 --> 00:07:00,059
+alike understand best
+practices and build
+
+119
+00:07:00,060 --> 00:07:03,270
+consistent, beautiful
+experiences.
+
+120
+00:07:03,270 --> 00:07:06,490
+We're releasing the first draft
+of these guidelines as part
+
+121
+00:07:06,490 --> 00:07:09,769
+of our preview today
+at google.com/design.
+
+122
+00:07:09,770 --> 00:07:14,440
+[APPLAUSE]
+
+123
+00:07:14,440 --> 00:07:17,039

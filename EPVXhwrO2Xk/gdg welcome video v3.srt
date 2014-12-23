@@ -1,0 +1,125 @@
+1
+00:00:00,510 --> 00:00:03,959
+Hi, everyone! I'm Van Riper and I'm
+Adriana Cerundolo.
+
+2
+00:00:03,959 --> 00:00:07,250
+And, we support the global Google Developer
+Group community from the Googleplex
+
+3
+00:00:07,250 --> 00:00:09,139
+right here in Mountain View California.
+
+4
+00:00:09,139 --> 00:00:12,268
+We are super excited about DevFest 2014.
+
+5
+00:00:12,269 --> 00:00:16,190
+I wanna thank you all for joining us
+Know that you are part of a global
+
+6
+00:00:16,190 --> 00:00:20,160
+diverse community people interested in
+Google tech, and we hope you make at least
+
+7
+00:00:20,160 --> 00:00:21,720
+one new friend, today.
+
+8
+00:00:21,720 --> 00:00:25,150
+This is the third year the GDGs have
+been organizing DevFest.
+
+9
+00:00:25,150 --> 00:00:28,320
+And, these are great opportunities to
+learn about, and play with Google
+
+10
+00:00:28,320 --> 00:00:29,230
+developer tools.
+
+11
+00:00:29,230 --> 00:00:32,738
+Last year, GDG held 160 DevFest
+
+12
+00:00:32,738 --> 00:00:36,489
+in 60 countries reaching more than
+35,000 developers.
+
+13
+00:00:36,489 --> 00:00:39,578
+Google technology talks, tutorials, code
+labs,
+
+14
+00:00:39,579 --> 00:00:43,329
+and hackathons were a big part in it.
+From GDG cookies,
+
+15
+00:00:43,329 --> 00:00:47,510
+to dancing, to Star Wars costumes these
+events are also incredibly creative and
+
+16
+00:00:47,510 --> 00:00:48,030
+fun.
+
+17
+00:00:48,030 --> 00:00:51,430
+These are just a few memories from the
+many amazing events that happened all
+
+18
+00:00:51,430 --> 00:00:53,280
+over the world in 2013.
+
+19
+00:00:53,280 --> 00:00:56,879
+We look forward to keeping this momentum
+going again this year.
+
+20
+00:00:56,879 --> 00:01:01,218
+I can't wait to see what fun this is.
+Please be sure to share your photos on
+
+21
+00:01:01,219 --> 00:01:03,300
+GPlus with hash tag #GDG
+
+22
+00:01:03,300 --> 00:01:07,119
+hash tag #DevFest, so we can all follow along.
+And, we want to make sure that you have
+
+23
+00:01:07,119 --> 00:01:10,460
+the best experience possible. We can't do
+that without your feedback.
+
+24
+00:01:10,460 --> 00:01:13,659
+So please be sure to complete the event
+survey for after the event.
+
+25
+00:01:13,659 --> 00:01:17,740
+Thanks for supporting your local GDG and
+from your supporting team here in
+
+26
+00:01:17,740 --> 00:01:18,500
+Mountain View.
+
+27
+00:01:18,500 --> 00:01:21,270
+Have a fantastic DevFest 2014!
+
