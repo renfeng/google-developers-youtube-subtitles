@@ -1,0 +1,102 @@
+1
+00:00:00,250 --> 00:00:04,610
+En este curso, vamos a crear una aplicación
+para el clima llamada Sunshine.
+
+2
+00:00:04,610 --> 00:00:08,029
+La pantalla principal es una lista del
+pronóstico de esta semana,
+
+3
+00:00:08,029 --> 00:00:11,460
+con una presentación destacada
+del clima de hoy.
+
+4
+00:00:11,460 --> 00:00:14,818
+Con un rápido vistazo, puedo decidir
+
+5
+00:00:14,818 --> 00:00:18,436
+si me quedo hoy en casa
+y me pongo a programar.
+
+6
+00:00:18,436 --> 00:00:22,026
+O si en vez de eso
+podría programar en el parque.
+
+7
+00:00:22,026 --> 00:00:25,286
+Tenemos iconos para indicar
+el estado del tiempo,
+
+8
+00:00:25,286 --> 00:00:29,940
+como nieve, lluvia, niebla o sol.
+
+9
+00:00:29,940 --> 00:00:32,996
+Podemos desplazarnos por la lista
+para ver un pronóstico de más días.
+
+10
+00:00:32,996 --> 00:00:36,162
+Al hacer clic en uno de los pronósticos,
+nos muestra una vista detallada
+
+11
+00:00:36,162 --> 00:00:39,190
+con el resto de parámetros del clima.
+
+12
+00:00:39,190 --> 00:00:43,540
+Y también nos permite compartir
+el clima con nuestros amigos.
+
+13
+00:00:43,540 --> 00:00:48,430
+Podemos ir a Configuración y cambiar
+la unidad de medida, así como la ubicación.
+
+14
+00:00:48,910 --> 00:00:52,540
+La aplicación puede incluso publicar
+notificaciones en todo el dispositivo,
+
+15
+00:00:52,540 --> 00:00:56,530
+para informarnos del clima
+sin siquiera abrir la aplicación.
+
+16
+00:00:56,530 --> 00:01:00,433
+Te preguntarás: ¿por qué vamos a crear
+una aplicación para el clima?
+
+17
+00:01:00,433 --> 00:01:03,296
+Escogimos una aplicación así
+porque es un concepto simple
+
+18
+00:01:03,296 --> 00:01:06,470
+que abarca la mayoría de las API centrales
+que queremos enseñar.
+
+19
+00:01:06,470 --> 00:01:10,020
+Y todos pueden identificarse con el clima,
+a menos que vivas en un búnker.
+
+20
+00:01:10,020 --> 00:01:13,374
+Al final del curso estarás
+en capacidad de usar estas API
+
+21
+00:01:13,374 --> 00:01:16,571
+y estos conceptos para crear
+una aplicación para el proyecto final.
+

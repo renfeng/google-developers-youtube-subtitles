@@ -1,0 +1,163 @@
+1
+00:00:00,490 --> 00:00:02,560
+Agora, é importante lembrar
+que não estamos aqui
+
+2
+00:00:02,560 --> 00:00:04,780
+para ensiná-lo a fazer
+um aplicativo do clima.
+
+3
+00:00:04,780 --> 00:00:08,432
+Nem mesmo para te ensinar
+todas as APIs do Android que nós usamos.
+
+4
+00:00:08,432 --> 00:00:13,242
+Na verdade é para retreinar o seu cérebro
+para pensar como um desenvolvedor móvel,
+
+5
+00:00:13,242 --> 00:00:16,825
+o que é muito importante,
+pois ao final do curso nós pediremos
+
+6
+00:00:16,825 --> 00:00:19,894
+que você monte seu projeto final.
+
+7
+00:00:26,452 --> 00:00:30,089
+Nós esperamos que você já esteja
+familiarizado com programação
+
+8
+00:00:30,089 --> 00:00:33,649
+focada em objetos e tenha experiência
+com Java ou uma linguagem similar.
+
+9
+00:00:33,649 --> 00:00:37,900
+Pessoalmente, eu comecei no Android
+depois de anos usando Delphi e C#.
+
+10
+00:00:38,640 --> 00:00:42,160
+Como engenheiros, nós somos treinados
+para mapear nossas experiências
+
+11
+00:00:42,180 --> 00:00:44,310
+em uma linguagem
+ou em SDK para as novas.
+
+12
+00:00:44,310 --> 00:00:48,120
+Procurando padrões e atalhos
+que possamos usar o mais rápido possível.
+
+13
+00:00:48,120 --> 00:00:50,750
+Mas aplicações móveis,
+particularmente Android,
+
+14
+00:00:50,750 --> 00:00:53,920
+têm algumas diferenças fundamentais
+que significam que parte
+
+15
+00:00:53,920 --> 00:00:57,650
+da nossa experiência e intuição
+na verdade nos torna engenheiros piores.
+
+16
+00:00:57,650 --> 00:01:02,370
+Nós gostamos de pensar em smartphones
+como computadores de bolso.
+
+17
+00:01:02,370 --> 00:01:05,960
+De certa forma é verdade,
+mas são computadores dos anos 90,
+
+18
+00:01:05,960 --> 00:01:08,830
+como essa máquina que eu usava
+quase 20 anos atrás,
+
+19
+00:01:08,830 --> 00:01:12,480
+com conexão à internet limitada,
+CPUs de baixa velocidade,
+
+20
+00:01:12,480 --> 00:01:16,060
+e memória RAM limitada, e ainda por cima
+eles funcionam à bateria.
+
+21
+00:01:16,060 --> 00:01:17,910
+Conforme avançamos neste curso,
+
+22
+00:01:17,910 --> 00:01:20,990
+eu voltarei a cada um desses desafios
+mais importantes da tecnologia móvel.
+
+23
+00:01:20,990 --> 00:01:23,160
+Procurar lugares onde você
+tenha experiência com desktops
+
+24
+00:01:23,160 --> 00:01:26,160
+ou servidores, ou mesmo outras
+plataformas móveis, pode levá-lo
+
+25
+00:01:26,160 --> 00:01:28,880
+na direção errada.
+Eu também voltarei para contar histórias
+
+26
+00:01:28,880 --> 00:01:31,900
+dos primeiros dias do Android.
+Histórias que contam
+
+27
+00:01:31,900 --> 00:01:36,640
+como a plataforma Android evoluiu.
+E em nenhum lugar isso é mais aparente
+
+28
+00:01:36,640 --> 00:01:39,830
+do que aqui, no jardim
+de esculturas de plantas da Android.
+
+29
+00:01:39,830 --> 00:01:42,620
+Junte-se a mim aqui, no coração
+da Android, ao final da lição,
+
+30
+00:01:42,620 --> 00:01:45,680
+para descobrir como este jardim
+de esculturas maravilhosas
+
+31
+00:01:45,680 --> 00:01:48,070
+também nos conta
+a história do Android.
+
+32
+00:01:48,070 --> 00:01:50,840
+Por ora, vamos voltar a montar
+aquele aplicativo do clima.
+
+33
+00:01:50,840 --> 00:01:53,320
+Então, vamos para o Dan,
+para dar uma olhada em alguns mockups.
+

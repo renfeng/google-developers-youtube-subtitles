@@ -1,0 +1,161 @@
+1
+00:00:00,667 --> 00:00:04,204
+Saya Katherine Kwan,
+dan saya pemandu pengembang di Google.
+
+2
+00:00:04,204 --> 00:00:08,041
+Saya mulai bekerja sebagai insinyur di
+tim aplikasi Android.
+
+3
+00:00:08,041 --> 00:00:11,245
+Di sana saya bekerja selama tiga tahun
+untuk produk seperti Google Play
+
+4
+00:00:11,245 --> 00:00:13,714
+dan Google Keep, aplikasi pembuat catatan.
+
+5
+00:00:15,115 --> 00:00:19,019
+Saya terus terkesima dengan apa yang
+bisa dibuat di platform ini,
+
+6
+00:00:19,019 --> 00:00:21,255
+dan saya sangat terinspirasi oleh
+aplikasi-aplikasi tersebut
+
+7
+00:00:21,255 --> 00:00:23,824
+yang benar-benar bisa tingkatkan
+hidup orang-orang.
+
+8
+00:00:24,191 --> 00:00:27,961
+Saat saya bertemu orang-orang, mereka
+sering cerita ide aplikasi hebat mereka.
+
+9
+00:00:27,961 --> 00:00:31,899
+Tapi mereka merasa tak punya keahlian
+teknis untuk mewujudkannya.
+
+10
+00:00:31,899 --> 00:00:34,368
+Karena itu saya pindah ke
+bagian hubungan pengembang
+
+11
+00:00:34,368 --> 00:00:38,038
+agar saya bisa bantu orang-orang seperti
+seperti Anda wujudkan sesuatu yang hebat.
+
+12
+00:00:38,906 --> 00:00:42,776
+Sepanjang kursus ini, saya akan bantu Anda
+wujudkan aplikasi pertama Anda.
+
+13
+00:00:48,315 --> 00:00:51,451
+Nama saya Dan Gauthan. Saya sudah lama
+jadi pemandu pengembang di Google
+
+14
+00:00:51,451 --> 00:00:54,254
+selama empat tahun dan saya telah
+tempati berbagai posisi di sini.
+
+15
+00:00:54,788 --> 00:00:57,190
+Tujuan saya adalah menjaga kita tetap
+tetap di jalur untuk jadikan Sunshine
+
+16
+00:00:57,190 --> 00:01:00,294
+mirip dengan aplikasi kualitas produksi.
+
+17
+00:01:00,294 --> 00:01:02,863
+Saya akan perkenalkan pola dan
+prinsip desain Android.
+
+18
+00:01:02,863 --> 00:01:05,899
+Banyak darinya sering dilupakan
+pengembang Android pemula.
+
+19
+00:01:05,899 --> 00:01:09,703
+Anda akan belajar mengandalkan framework,
+fokus pada keunikan aplikasi Anda
+
+20
+00:01:09,703 --> 00:01:11,438
+bukan mengulang dari awal.
+
+21
+00:01:17,878 --> 00:01:20,847
+Saya Rado Mya, pemandu
+pengembang Android di Google
+
+22
+00:01:20,847 --> 00:01:22,382
+selama lima tahun.
+
+23
+00:01:22,382 --> 00:01:24,818
+Saya mulai menangani Android sudah lama
+
+24
+00:01:24,818 --> 00:01:27,421
+saat belum ada perangkat.
+
+25
+00:01:27,421 --> 00:01:30,457
+Kami hanya pakai emulator, SDK beater,
+
+26
+00:01:30,457 --> 00:01:33,527
+dan fanatisme pada platform ini.
+
+27
+00:01:33,527 --> 00:01:37,864
+Saya akan menemani Anda dari sini, bunker
+pengembang Android bawah tanah saya,
+
+28
+00:01:37,864 --> 00:01:41,034
+dan tujuan saya bukan untuk membuat Anda
+tidak betah dan langsung kabur.
+
+29
+00:01:41,034 --> 00:01:43,603
+Tapi mengajari Anda konteks
+di balik pilihan yang akan dibuat.
+
+30
+00:01:43,603 --> 00:01:47,074
+Dan praktik terbaik yang Anda perlukan,
+agar Anda benar-benar paham cara membuat
+
+31
+00:01:47,074 --> 00:01:50,777
+pengalaman hebat yang khusus disesuaikan
+dengan perangkat seluler.
+
+32
+00:01:51,511 --> 00:01:53,947
+Saat menyelesaikan kursus ini,
+Anda akan tahu lebih dari sekadar membuat
+
+33
+00:01:53,947 --> 00:01:55,682
+aplikasi lagi.
+
+34
+00:01:55,682 --> 00:01:58,719
+Anda akan tahu cara membangun
+aplikasi hebat yang fokus pada pengguna.
+

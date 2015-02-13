@@ -1,0 +1,108 @@
+1
+00:00:00,667 --> 00:00:04,471
+Dalam kursus ini, kita akan membuat
+sebuah aplikasi cuaca bernama Sunshine.
+
+2
+00:00:04,471 --> 00:00:07,674
+Di layar utama terdapat daftar
+prakiraan cuaca dalam minggu ini,
+
+3
+00:00:07,674 --> 00:00:11,578
+dengan presentasi utama tentang
+kondisi cuaca pada hari ini.
+
+4
+00:00:11,578 --> 00:00:14,914
+Secara sekilas, saya bisa
+memutuskan apakah,
+
+5
+00:00:14,914 --> 00:00:17,851
+pada hari ini, saya harus tetap
+berada di dalam ruangan dan menulis kode.
+
+6
+00:00:17,851 --> 00:00:22,055
+Atau saya harus menulis kode di taman.
+
+7
+00:00:22,055 --> 00:00:24,557
+Kita mempunyai beberapa ikon yang
+menunjukkan beberapa kondisi cuaca,
+
+8
+00:00:24,557 --> 00:00:29,662
+seperti salju, hujan, kabut atau
+sinar matahari.
+
+9
+00:00:29,662 --> 00:00:32,732
+Kita bisa menggulir daftarnya,
+untuk melihat jangkauan prakiraan cuaca.
+
+10
+00:00:32,732 --> 00:00:34,434
+Dengan sekali klik pada
+salah satu prakiraan cuacanya,
+
+11
+00:00:34,434 --> 00:00:39,038
+kita bisa memberikan gambaran terperinci
+tentang manfaat dari cuaca tersebut,
+
+12
+00:00:39,038 --> 00:00:43,476
+yang juga bisa kita bagikan
+kepada teman kita.
+
+13
+00:00:43,476 --> 00:00:46,513
+Kita bisa masuk ke bagian Settings dan
+mengubah satuan ukurannya,
+
+14
+00:00:46,513 --> 00:00:48,648
+beserta lokasinya.
+
+15
+00:00:48,648 --> 00:00:52,285
+Aplikasi ini bahkan bisa memposting
+pemberitahuan secara luas kepada sistem,
+
+16
+00:00:52,285 --> 00:00:55,488
+untuk memberitahu kita tentang kondisi
+cuaca tanpa perlu masuk ke aplikasi.
+
+17
+00:00:56,456 --> 00:01:00,427
+Jadi, Anda mungkin bertanya,
+mengapa kita membuat aplikasi cuaca?
+
+18
+00:01:00,427 --> 00:01:03,229
+Kita memilih aplikasi cuaca karena
+ini adalah sebuah konsep sederhana,
+
+19
+00:01:03,229 --> 00:01:06,232
+yang menyinggung hampir seluruh inti
+kode API yang ingin kita ajarkan
+
+20
+00:01:06,232 --> 00:01:10,170
+dan semua orang bisa menghubungkannya dgn
+cuaca, kecuali Anda berada di bungker.
+
+21
+00:01:10,170 --> 00:01:12,972
+Di akhir kursus nanti, Anda akan mampu
+memanfaatkan kode API
+
+22
+00:01:12,972 --> 00:01:16,313
+beserta konsepnya untuk membuat aplikasi
+sendiri sebagai proyek akhir Anda.
+

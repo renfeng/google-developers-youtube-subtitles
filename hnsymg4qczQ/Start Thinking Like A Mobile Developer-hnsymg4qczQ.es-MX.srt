@@ -1,0 +1,181 @@
+1
+00:00:00,070 --> 00:00:02,840
+Es importante recordar
+que no estamos aquí para enseñarte
+
+2
+00:00:02,840 --> 00:00:04,730
+cómo construir una aplicación del tiempo.
+
+3
+00:00:04,730 --> 00:00:07,207
+Ni siquiera es para enseñarte
+todos los APIs de Android
+
+4
+00:00:07,207 --> 00:00:08,724
+que usamos para construirlo.
+
+5
+00:00:08,724 --> 00:00:10,727
+Se trata realmente
+de entrenar a tu cerebro
+
+6
+00:00:10,727 --> 00:00:13,250
+para que empiece a pensar
+como un desarrollador móvil,
+
+7
+00:00:13,250 --> 00:00:15,865
+lo cual es realmente importante,
+ya que al final de este curso
+
+8
+00:00:15,865 --> 00:00:19,324
+te vamos a pedir que construyas
+tu propio proyecto final.
+
+9
+00:00:26,172 --> 00:00:30,339
+Esperamos que ya estés familiarizado
+con la programación orientada a objetos,
+
+10
+00:00:30,339 --> 00:00:33,239
+y que tengas experiencia con Java
+o un lenguaje similar.
+
+11
+00:00:33,239 --> 00:00:36,459
+Personalmente, empecé con Android
+después de años de Delphi
+
+12
+00:00:36,459 --> 00:00:38,269
+y de desarrollo C#.
+
+13
+00:00:38,269 --> 00:00:41,270
+Como ingenieros estamos capacitados
+para mapear nuestras experiencias
+
+14
+00:00:41,270 --> 00:00:43,750
+de un solo idioma o SDK a otros.
+
+15
+00:00:43,750 --> 00:00:48,040
+Buscar patrones y atajos nos permite
+ponernos al día lo antes posible.
+
+16
+00:00:48,040 --> 00:00:52,500
+Pero móvil y Android, en particular,
+tienen algunas diferencias fundamentales
+
+17
+00:00:52,500 --> 00:00:55,970
+lo cual significa que nuestra experiencia
+e intuición nos hará en realidad
+
+18
+00:00:55,970 --> 00:00:58,040
+peores ingenieros móviles.
+
+19
+00:00:58,310 --> 00:01:02,080
+Nos gusta ver a los smartphones
+como computadoras de bolsillo.
+
+20
+00:01:02,080 --> 00:01:05,930
+En cierto modo eso es cierto,
+excepto los ordenadores de los años 90,
+
+21
+00:01:05,930 --> 00:01:08,970
+como este Powerhouse
+que usaba hace casi 20 años,
+
+22
+00:01:08,970 --> 00:01:13,450
+con conectividad a Internet limitada,
+CPUs de baja velocidad, RAM limitado,
+
+23
+00:01:13,450 --> 00:01:16,450
+y encima de eso,
+todos funcionan con baterías.
+
+24
+00:01:16,450 --> 00:01:18,170
+A medida que avanzamos en el curso,
+
+25
+00:01:18,170 --> 00:01:20,760
+Volveré a cada uno
+de estos desafíos móviles claves.
+
+26
+00:01:20,760 --> 00:01:23,520
+En busca de lugares donde tu experiencia
+en Desktop o Server,
+
+27
+00:01:23,520 --> 00:01:26,780
+o incluso otras plataformas móviles
+te puedan llevar en la dirección errónea.
+
+28
+00:01:26,780 --> 00:01:28,833
+También regresaré
+para contar algunas historias
+
+29
+00:01:28,833 --> 00:01:30,796
+de los primeros días de Android.
+
+30
+00:01:30,796 --> 00:01:33,050
+Historias que describen
+cómo ha evolucionado
+
+31
+00:01:33,050 --> 00:01:34,684
+la plataforma Android.
+
+32
+00:01:34,684 --> 00:01:37,230
+En ninguna parte
+es esto más evidente que aquí,
+
+33
+00:01:37,230 --> 00:01:39,410
+en el jardín de esculturas de Android.
+
+34
+00:01:39,410 --> 00:01:41,680
+Únete a mí aquí,
+en el verdadero corazón de Android,
+
+35
+00:01:41,680 --> 00:01:44,560
+al final de esta lección, para averiguar
+cómo este jardín de esculturas
+
+36
+00:01:44,560 --> 00:01:47,790
+de sabrosas delicias,
+también nos cuenta la historia de Android.
+
+37
+00:01:47,860 --> 00:01:50,640
+Por ahora, regresemos a la construcción
+de esa aplicación del tiempo.
+
+38
+00:01:50,640 --> 00:01:53,220
+Por lo tanto, vamos donde Dan,
+a darle un vistazo a unas pruebas.
+

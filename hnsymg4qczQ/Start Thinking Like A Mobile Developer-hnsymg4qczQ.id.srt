@@ -1,0 +1,164 @@
+1
+00:00:00,100 --> 00:00:02,469
+Sekarang, penting untuk mengingat bahwa
+kami disini tidak untuk mengajari anda
+
+2
+00:00:02,469 --> 00:00:04,538
+bagaimana membuat aplikasi cuaca
+Bahkan tidak mengajari anda
+
+3
+00:00:04,538 --> 00:00:08,275
+tentang semua API Android
+yang kami gunakan untuk membuatnya.
+
+4
+00:00:08,275 --> 00:00:13,046
+Ini tentang melatih ulang otak anda untuk
+mulai berpikir seperti pengembang ponsel,
+
+5
+00:00:13,046 --> 00:00:15,849
+yang mana sangat penting,
+karena pada akhir kursus ini
+
+6
+00:00:15,849 --> 00:00:19,152
+kami akan meminta anda untuk
+membuat program akhir anda.
+
+7
+00:00:26,293 --> 00:00:30,063
+Kami mengharapkan anda sudah mengenal
+pemprograman berorientasi objek,
+
+8
+00:00:30,063 --> 00:00:33,467
+dan memiliki pengalaman dengan Java
+dan atau bahasa yang serupa.
+
+9
+00:00:33,667 --> 00:00:38,171
+Secara pribadi, saya mulai dengan Android
+setelah bertahun-tahun di Delphi dan
+
+10
+00:00:38,171 --> 00:00:41,975
+#C development. Sebagai Insinyur,
+kami dilatih untuk memetakan
+
+11
+00:00:41,975 --> 00:00:43,877
+pengalaman kami dalam satu bahasa atau
+SDK menjadi bahasa baru.
+
+12
+00:00:43,877 --> 00:00:48,115
+Mencari pola dan shortcut yang didapat
+dengan kecepatan secepat mungkin.
+
+13
+00:00:48,115 --> 00:00:50,417
+Tetapi ponsel, dan khususnya Android,
+
+14
+00:00:50,417 --> 00:00:54,021
+memiliki perbedaan dasar yang menentukan
+beberapa pengalaman kami
+
+15
+00:00:54,021 --> 00:00:57,457
+dan intuisi yang benar-benar membuat
+kami menjadi insinyur ponsel yang buruk.
+
+16
+00:00:57,958 --> 00:01:01,962
+Kita selalu berpikir bahwa ponsel pintar
+seperti komputer yang dapat masuk dalam
+
+17
+00:01:01,962 --> 00:01:05,766
+kantong celana kita. Benar sesuai caranya,
+tapi komputer berasal dari tahun 90an
+
+18
+00:01:05,766 --> 00:01:08,936
+seperti tenaga listrik ini
+yang saya gunakan hampir 20 tahun lalu.
+
+19
+00:01:08,936 --> 00:01:13,240
+Dengan konektivitas internet terbatas,
+CPU berkecepatan rendah, dan kapasitas RAM
+
+20
+00:01:13,240 --> 00:01:15,709
+terbatas, dan paling utama,
+semua menggunakan baterai.
+
+21
+00:01:16,143 --> 00:01:17,578
+Sejak kita
+menempuh kursus ini,
+
+22
+00:01:17,578 --> 00:01:20,681
+Saya akan kembali ke setiap
+tantangan utama ponsel.
+
+23
+00:01:20,681 --> 00:01:23,317
+Mencari bagian dimana anda merasakan
+pada desktop atau server,
+
+24
+00:01:23,317 --> 00:01:26,453
+atau bahkan platform ponsel
+menuntun anda ke arah yang salah.
+
+25
+00:01:26,653 --> 00:01:30,357
+Saya juga akan kembali memberitahu anda
+beberapa cerita tentang masa awal Android.
+
+26
+00:01:30,357 --> 00:01:34,194
+Cerita yang menggambarkan bagaimana
+platform Android berkembang.
+
+27
+00:01:34,194 --> 00:01:36,797
+Dan tidak ada tempat yang mudah
+terlihat selain disini,
+
+28
+00:01:36,797 --> 00:01:39,366
+di taman patung
+Android.
+
+29
+00:01:39,366 --> 00:01:42,269
+Ayo bergabung dengan saya disini, di
+jantungnya Android,di akhir pelajaran ini,
+
+30
+00:01:42,269 --> 00:01:45,238
+untuk mengetahui bagaimana rasanya suguhan
+nikmat taman patung ini,
+
+31
+00:01:45,238 --> 00:01:48,141
+juga memberitahu dunia tentang
+sejarah Android.
+
+32
+00:01:48,141 --> 00:01:50,477
+Untuk saat ini, mari kembali
+membuat aplikasi cuaca.
+
+33
+00:01:50,477 --> 00:01:52,412
+Jadi, kita akan kembali ke Dan,
+untuk melihat beberapa objek palsu.
+

@@ -1,0 +1,133 @@
+1
+00:00:00,025 --> 00:00:03,070
+Bienvenido a fundamentos de Android.
+
+2
+00:00:03,070 --> 00:00:05,720
+Empezar en Android es muy sencillo.
+
+3
+00:00:05,720 --> 00:00:08,740
+Simplemete instalar Android Studio
+y crear un nuevo proyecto,
+
+4
+00:00:08,740 --> 00:00:10,860
+será suficiente 
+para ver hello world
+
+5
+00:00:10,860 --> 00:00:12,250
+y poner en tu curriculum 
+que utilizas Android.
+
+6
+00:00:12,250 --> 00:00:13,880
+Pero eso no es 
+para lo que estamos aquí.
+
+7
+00:00:13,880 --> 00:00:15,882
+Tampoco estamos aquí 
+para enseñarte Java,
+
+8
+00:00:15,882 --> 00:00:19,480
+ni vamos a llevarte por cada API
+en el Android SDK.
+
+9
+00:00:19,480 --> 00:00:22,375
+Lo que haremos será ayudarte
+a hacer una aplicación real.
+
+10
+00:00:22,375 --> 00:00:24,890
+Profundizaremos en los fundamentos
+acerca de cómo funciona Android.
+
+11
+00:00:24,890 --> 00:00:27,280
+Sus patrones y mejores prácticas.
+
+12
+00:00:27,280 --> 00:00:29,470
+Nuestro curso se centra 
+principalmente en el código,
+
+13
+00:00:29,470 --> 00:00:31,760
+pero aquí no solo aprenderás
+a copiar y pegar código.
+
+14
+00:00:31,760 --> 00:00:33,890
+Te enseñaremos los principios
+que necesitas.
+
+15
+00:00:33,890 --> 00:00:36,000
+Y te ayudaremos a navegar 
+a través de los cientos de recursos,
+
+16
+00:00:36,000 --> 00:00:37,796
+como muestras de código, 
+documentación
+
+17
+00:00:37,796 --> 00:00:39,252
+y páginas como Stack Overflow,
+
+18
+00:00:39,252 --> 00:00:42,230
+que usarás en tu carrera
+como desarrollador de Android.
+
+19
+00:00:42,230 --> 00:00:45,170
+Empezar es fácil pero construir 
+algo increíble es más difícil.
+
+20
+00:00:45,170 --> 00:00:47,250
+Esa es la razón 
+por la que estamos aquí.
+
+21
+00:00:47,250 --> 00:00:50,560
+Trabajaremos a tu lado,
+y al final del curso
+
+22
+00:00:50,560 --> 00:00:53,380
+serás capáz de convertir tu idea 
+para una aplicación en realidad.
+
+23
+00:00:53,380 --> 00:00:55,430
+Y lo harás de la forma correcta.
+
+24
+00:00:55,430 --> 00:00:57,040
+Así que, siguiendo este 
+espíritu de colaboración,
+
+25
+00:00:57,040 --> 00:00:59,054
+empezaremos contándote 
+un poco acerca de nosotros,
+
+26
+00:00:59,054 --> 00:01:01,249
+y en dónde nos encontrarás 
+a lo largo de este curso.
+
+27
+00:01:01,249 --> 00:01:03,149
+Katherine, ¿puedes empezar?
+
+28
+00:01:03,149 --> 00:01:04,498
+Claro!
+

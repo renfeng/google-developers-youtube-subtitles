@@ -1,0 +1,16 @@
+1
+00:00:00,433 --> 00:00:02,335
+Siap menerima pelajaran ini?
+
+2
+00:00:02,335 --> 00:00:04,704
+Lakukan sedikit evaluasi mandiri ini
+
+3
+00:00:04,704 --> 00:00:06,506
+untuk melihat kesiapan dan
+
+4
+00:00:06,506 --> 00:00:07,797
+kecepatan Anda!
+

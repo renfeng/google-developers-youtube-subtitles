@@ -1,0 +1,80 @@
+1
+00:00:00,538 --> 00:00:04,530
+Neste curso, vamos criar um aplicativo
+de tempo chamado Sunshine.
+
+2
+00:00:04,530 --> 00:00:08,570
+A tela principal é uma lista da previsão
+desta semana, com uma apresentação
+
+3
+00:00:08,570 --> 00:00:15,339
+enfatizada no tempo de hoje. Com uma 
+olhada rápida , eu decido se hoje é
+
+4
+00:00:15,339 --> 00:00:22,203
+dia de ficar em casa codificando, ou se 
+eu deveria codificar no parque.
+
+5
+00:00:22,203 --> 00:00:29,750
+Temos ícones para indicar condições, 
+como neve, chuva, neblina ou sol.
+
+6
+00:00:29,750 --> 00:00:33,472
+Podemos ver uma longa lista de previsões
+em toda a lista. Com um clique em uma
+
+7
+00:00:33,472 --> 00:00:39,045
+das previsões, temos uma visão detalhada
+do resto das maravilhas do tempo,
+
+8
+00:00:39,045 --> 00:00:43,998
+o que possibilita compartilhar o tempo
+com nossos amigos. Podemos ir até
+
+9
+00:00:43,998 --> 00:00:48,782
+as Configurações e mudar a unidade 
+de medida, além da localização.
+
+10
+00:00:48,782 --> 00:00:53,137
+O aplicativo pode inclusive postar 
+notificações genéricas, para mostrar
+
+11
+00:00:53,137 --> 00:00:57,600
+as condições do tempo sem termos 
+que abri-lo. Então, você poderia
+
+12
+00:00:57,600 --> 00:01:01,717
+perguntar, por que estamos criando um 
+aplicativo de tempo? Nós o escolhemos
+
+13
+00:01:01,717 --> 00:01:06,177
+porque é um conceito simples, que usa a 
+maioria dos principais APIs que queremos
+
+14
+00:01:06,177 --> 00:01:09,743
+ensinar e todos se preocupam com o 
+tempo, a não ser que você esteja
+
+15
+00:01:09,743 --> 00:01:13,881
+num bunker. No fim do curso, você saberá 
+utilizar os APIs e os conceitos para criar
+
+16
+00:01:13,881 --> 00:01:16,505
+seu próprio aplicativo para 
+seu projeto final.
+

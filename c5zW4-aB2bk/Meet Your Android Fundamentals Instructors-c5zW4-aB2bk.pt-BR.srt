@@ -1,0 +1,166 @@
+1
+00:00:01,120 --> 00:00:04,660
+Eu sou Katherine Kwan, 
+desenvolvedora de aplicativos no Google.
+
+2
+00:00:04,660 --> 00:00:09,000
+Comecei como engenheira no time 
+de aplicativos para Android.
+
+3
+00:00:09,000 --> 00:00:12,414
+Trabalhei por três anos
+
+4
+00:00:12,414 --> 00:00:15,828
+em produtos como Google Play 
+e Google Keep, o aplicativo de notas.
+
+5
+00:00:15,828 --> 00:00:18,748
+Continuo a me impressionar
+
+6
+00:00:18,748 --> 00:00:21,668
+com o que você pode construir 
+nessa plataforma, e me inspiro
+
+7
+00:00:21,668 --> 00:00:24,590
+com os aplicativos que trazem melhorias
+na vida das pessoas.
+
+8
+00:00:24,590 --> 00:00:26,866
+Quando conheço pessoas,
+
+9
+00:00:26,866 --> 00:00:29,142
+elas costumam me falar 
+sobre grandes ideias para apps.
+
+10
+00:00:29,142 --> 00:00:31,420
+Mas sentem que não têm 
+habilidades técnicas para construí-los.
+
+11
+00:00:31,420 --> 00:00:35,150
+Foi por isso que decidi mudar 
+para desenvolvimento de relações
+
+12
+00:00:35,150 --> 00:00:40,508
+e ajudar pessoas como você 
+a construir algo ótimo.
+
+13
+00:00:40,508 --> 00:00:42,868
+Durante esse curso, estarei lhe ajudando 
+a implementar seu primeiro aplicativo.
+
+14
+00:00:48,544 --> 00:00:51,222
+Sou Dan Gauthan.
+
+15
+00:00:51,222 --> 00:00:53,008
+Sou desenvolvedor
+
+16
+00:00:53,008 --> 00:00:54,794
+de aplicativos no Google por quatro anos
+e ganhei muitos elogios aqui.
+
+17
+00:00:54,794 --> 00:00:56,580
+Meu objetivo é nos manter no caminho 
+para desenvolver o Sunshine,
+
+18
+00:00:56,580 --> 00:01:00,730
+em um processo semelhante 
+a produzir um bom aplicativo.
+
+19
+00:01:00,730 --> 00:01:03,213
+Vou introduzir alguns princípios 
+e padrões de design.
+
+20
+00:01:03,213 --> 00:01:05,696
+Muitos dos quais costumam ser esquecidos
+por novos desenvolvedores do Android.
+
+21
+00:01:05,696 --> 00:01:08,181
+Você vai se apoiar no Framework
+focando no que faz seu aplicativo
+
+22
+00:01:08,181 --> 00:01:11,565
+ser único sem precisar recriar a roda.
+
+23
+00:01:17,092 --> 00:01:20,628
+Me chamo Rado Mya,
+
+24
+00:01:20,628 --> 00:01:24,164
+desenvolvedor de aplicativos 
+no Google há cinco anos.
+
+25
+00:01:24,164 --> 00:01:27,700
+Comecei trabalhando com Androids 
+em uma época que não havia dispositivos.
+
+26
+00:01:27,700 --> 00:01:30,940
+Tudo o que tínhamos era um 
+emulador, um beater SDK,
+
+27
+00:01:30,940 --> 00:01:33,793
+e uma devoção enorme pela plataforma.
+
+28
+00:01:33,793 --> 00:01:36,646
+Vou participar com vocês por aqui,
+no meu abrigo subterrâneo Android,
+
+29
+00:01:36,646 --> 00:01:39,500
+e meu objetivo não é fazer
+você terminar o mais rápido possível.
+
+30
+00:01:39,500 --> 00:01:42,993
+Vou mostrá-los o contexto por trás
+das escolhas que faremos.
+
+31
+00:01:42,993 --> 00:01:47,025
+Além das melhores práticas necessárias 
+para entender como criar
+
+32
+00:01:47,025 --> 00:01:52,000
+as melhores experiências sob medida 
+para os dispositivos móveis.
+
+33
+00:01:52,000 --> 00:01:54,300
+Ao terminar o curso,
+
+34
+00:01:54,300 --> 00:01:56,600
+você saberá mais 
+do que apenas criar um aplicativo.
+
+35
+00:01:56,600 --> 00:01:59,180
+Saberá criar aplicativos maravilhosos
+focando os usuários.
+
