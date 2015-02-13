@@ -1,0 +1,24 @@
+1
+00:00:00,160 --> 00:00:04,689
+Learning to develop on Android is much more than learning APIs or shortcuts.
+
+2
+00:00:04,689 --> 00:00:07,040
+It's training your brain to think like a mobile developer.
+
+3
+00:00:08,140 --> 00:00:11,960
+Android Fundamentals, developed with Google, tells the story of Android's
+
+4
+00:00:11,960 --> 00:00:16,770
+history while you build a real app, exposing you to current APIs and battlefield
+
+5
+00:00:16,770 --> 00:00:20,930
+experience that will help you think in code like a seasoned Android developer.
+
+6
+00:00:20,930 --> 00:00:25,729
+For more information, visit udacity.com/Google.
+
