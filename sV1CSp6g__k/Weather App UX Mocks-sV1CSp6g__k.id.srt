@@ -1,0 +1,47 @@
+1
+00:00:00,033 --> 00:00:01,068
+Terima kasih Raido
+
+2
+00:00:01,068 --> 00:00:04,738
+Tapi mari kita mulai berfikir tentang
+Sunshine, maksudnya aplikasi kita.
+
+3
+00:00:04,738 --> 00:00:07,241
+Saya tidak yakin akan berhenti
+bermain kata-kata dengan
+
+4
+00:00:07,241 --> 00:00:08,976
+judul aplikasi kita.
+
+5
+00:00:08,976 --> 00:00:12,512
+Ingat, saat kita berjalan melalui latihan
+ini dan membangun aplikasi ini bersama
+
+6
+00:00:12,512 --> 00:00:15,415
+Anda harus berfikir tentang aplikasi
+yang ingin Anda ciptakan.
+
+7
+00:00:15,415 --> 00:00:17,885
+Sudah ada terlalu banyak
+aplikasi tentang cuaca.
+
+8
+00:00:17,885 --> 00:00:19,753
+Di akhir pelatihan,
+Anda akan siap mengatasi
+
+9
+00:00:19,753 --> 00:00:21,188
+proyek akhir,
+
+10
+00:00:21,188 --> 00:00:23,924
+menggunakan seluruh pengetahuan Android
+yang Anda ketahui untuk membuat aplikasi.
+

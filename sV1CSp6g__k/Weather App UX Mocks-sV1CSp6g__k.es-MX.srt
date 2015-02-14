@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:03,660
+Gracias Raydo. Empecemos 
+a pensar acerca de Sunshine,
+
+2
+00:00:03,660 --> 00:00:05,160
+es decir, nuestra aplicación.
+
+3
+00:00:05,160 --> 00:00:07,510
+No me voy a cansar nunca 
+de los juegos de palabras
+ 
+
+4
+00:00:07,510 --> 00:00:09,540
+que el nombre de nuestra 
+aplicación permite.
+
+5
+00:00:09,540 --> 00:00:11,630
+Recuerda, a medida 
+que progresamos en este curso
+
+6
+00:00:11,630 --> 00:00:13,120
+y construimos esta aplicación juntos,
+
+7
+00:00:13,120 --> 00:00:15,820
+deberías pensar acerca de 
+la aplicación que tú quieres crear.
+
+8
+00:00:15,820 --> 00:00:18,400
+Después de todo, ya hay demasiadas 
+aplicaciones del tiempo.
+
+9
+00:00:18,400 --> 00:00:21,560
+Al final del curso, estarás preparado 
+para abordar el proyecto final.
+
+10
+00:00:21,560 --> 00:00:24,430
+Usando tu nuevo conocimiento de Android,
+sabrás como crear tu propia aplicación.
+
