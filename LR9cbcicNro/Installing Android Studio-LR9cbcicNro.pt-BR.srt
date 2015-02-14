@@ -1,0 +1,70 @@
+1
+00:00:00,300 --> 00:00:04,160
+Obrigada Dan, como foi dito antes, 
+usaremos Android Studio ao longo deste
+
+2
+00:00:04,160 --> 00:00:07,431
+curso. Ele foi baseado na versão 
+comunitária do IntelliJ IDEA,
+
+3
+00:00:07,431 --> 00:00:11,770
+que foi otimizado especificamente para a 
+criação do Android. Ainda está em fase de
+
+4
+00:00:11,770 --> 00:00:14,530
+desenvolvimento e por isso sua versão 
+pode ser um pouco diferente, mas tudo bem.
+
+5
+00:00:14,530 --> 00:00:18,000
+A funcionalidade deve ser a mesma. 
+Se você ainda não tiver instalado,
+
+6
+00:00:18,000 --> 00:00:21,870
+aproveite para fazer isso agora usando as
+instruções detalhadas clicando no link
+
+7
+00:00:21,870 --> 00:00:26,110
+abaixo. Você também precisará instalar
+a biblioteca e as instruções
+
+8
+00:00:26,110 --> 00:00:31,110
+também estão incluídas. Observe que o SDK
+está automaticamente incluído
+
+9
+00:00:31,110 --> 00:00:35,000
+então você não preciosa instalar ele 
+separadamente. Se tiver dificuldades
+
+10
+00:00:35,000 --> 00:00:38,960
+não se preocupe. Entendemos completamente
+porque pode ser complicado configurar tudo
+
+11
+00:00:38,960 --> 00:00:43,600
+direitinho. Você pode procurar online por
+pessoas que tiveram problemas semelhantes
+
+12
+00:00:43,600 --> 00:00:47,470
+ou também há um link de soluções de 
+problemas abaixo. Se você ainda precisar
+
+13
+00:00:47,470 --> 00:00:51,990
+de ajuda outra opção é perguntar no fórum
+de discussão. Depois de instalar, abra e
+
+14
+00:00:51,990 --> 00:00:55,660
+veja se há atualizações antes de 
+prosseguir. Assinale aqui quando terminar.
+

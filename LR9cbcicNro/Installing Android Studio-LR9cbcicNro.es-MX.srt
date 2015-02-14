@@ -1,0 +1,110 @@
+1
+00:00:00,300 --> 00:00:01,015
+Gracias, Dan.
+
+2
+00:00:01,015 --> 00:00:02,319
+Como dijimos anteriormente,
+ 
+
+3
+00:00:02,319 --> 00:00:04,915
+usaremos Android Studio
+a lo largo del curso.
+
+4
+00:00:04,915 --> 00:00:07,218
+Es una IDE basada en IntelliJ,
+optimizada específicamente
+
+5
+00:00:07,220 --> 00:00:10,056
+para desarrollar para Android.
+
+6
+00:00:10,056 --> 00:00:13,292
+Aún se encuentra en su fase BETA,
+así que tu versión lucirá algo distinta
+
+7
+00:00:13,292 --> 00:00:14,593
+pero eso es normal.
+
+8
+00:00:14,599 --> 00:00:16,517
+La funcionalidad debería ser la misma.
+
+9
+00:00:16,517 --> 00:00:19,424
+Si no lo has instalado aún,
+tómate un minuto para hacerlo
+
+10
+00:00:19,424 --> 00:00:22,788
+siguiendo las instrucciones detalladas
+en el vínculo que está abajo.
+
+11
+00:00:22,788 --> 00:00:25,359
+También necesitarás instalar
+la biblioteca adicional,
+
+12
+00:00:25,359 --> 00:00:27,704
+que también está incluida
+en las instrucciones.
+
+13
+00:00:27,704 --> 00:00:30,664
+Ten en cuenta que el SDK
+se incluye automáticamente,
+
+14
+00:00:30,664 --> 00:00:32,909
+así que no necesitas instalarlo
+por separado.
+
+15
+00:00:32,909 --> 00:00:35,642
+Si estás teniendo problemas,
+no te preocupes.
+
+16
+00:00:35,642 --> 00:00:38,047
+Lo entendemos totalmente
+porque puede ser algo difícil
+
+17
+00:00:38,047 --> 00:00:40,133
+iniciar todo el proceso
+correctamente.
+
+18
+00:00:40,133 --> 00:00:42,689
+Puedes buscar en la web
+respuestas a tus problemas
+
+19
+00:00:42,689 --> 00:00:45,529
+o usar el vínculo de ayuda
+incluido al final.
+
+20
+00:00:45,529 --> 00:00:49,664
+Si necesitas ayuda,
+únete al foro.
+
+21
+00:00:50,414 --> 00:00:51,949
+Luego que instales el Studio
+y antes de usarlo,
+
+22
+00:00:51,949 --> 00:00:54,095
+ejecútalo y busca actualizaciones.
+
+23
+00:00:54,095 --> 00:00:56,167
+Marca esta casilla
+cuando hayas terminado.
+

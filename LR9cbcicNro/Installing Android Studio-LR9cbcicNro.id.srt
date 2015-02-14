@@ -1,0 +1,98 @@
+1
+00:00:00,067 --> 00:00:03,203
+Terima kasih, Dan. Sesuai janjinya,
+kita akan gunakan Android Studio
+
+2
+00:00:03,203 --> 00:00:04,605
+sepanjang kursus ini.
+
+3
+00:00:04,605 --> 00:00:06,939
+Ini adalah IDE berbasis INtelliJ
+
+4
+00:00:06,939 --> 00:00:09,776
+yang dioptimalkan khusus untuk
+
+5
+00:00:09,776 --> 00:00:11,912
+pengembangan Android
+
+6
+00:00:11,912 --> 00:00:14,114
+Ini masih berupa pengembangan beta,
+jadi versi Anda mungkin terlihat
+
+7
+00:00:14,114 --> 00:00:16,617
+sedikit berbeda, tapi tak masalah.
+
+8
+00:00:16,617 --> 00:00:19,486
+Fungsi inti tetap sama.
+
+9
+00:00:19,486 --> 00:00:22,956
+Kalau belum diinstal, lakukanlah sekarang
+
+10
+00:00:22,956 --> 00:00:25,158
+dengan petunjuk rinci di link berikut ini.
+
+11
+00:00:25,158 --> 00:00:27,961
+Anda juga harus instal pustaka pendukung
+
+12
+00:00:27,961 --> 00:00:30,430
+yang juga ada di petunjuk tersebut.
+
+13
+00:00:30,430 --> 00:00:33,233
+Ingat, SDK sudah otomatis disertakan,
+
+14
+00:00:33,233 --> 00:00:35,502
+jadi tak perlu diinstal terpisah.
+
+15
+00:00:35,502 --> 00:00:37,504
+Kalau alami kesulitan, jangan khawatir.
+
+16
+00:00:37,504 --> 00:00:39,907
+Kami sangat maklumi karena sulit
+
+17
+00:00:39,907 --> 00:00:42,809
+menyiapkan semua dengan benar.
+
+18
+00:00:42,809 --> 00:00:45,379
+Anda bisa cari di Internet orang yang
+alami masalah serupa,
+
+19
+00:00:45,379 --> 00:00:47,447
+atau ada link pemecahan masalah disertakan
+di bawah ini.
+
+20
+00:00:47,447 --> 00:00:49,516
+Kalau masih butuh bantuan,
+Anda juga bisa ajukan pertanyaan
+
+21
+00:00:49,516 --> 00:00:51,518
+dalam forum diskusi kami.
+
+22
+00:00:51,518 --> 00:00:53,921
+Setelah diinstal, bukalah
+
+23
+00:00:53,921 --> 00:00:55,756
+dan Anda bisa periksa update
+sebelum berlanjut.
+
