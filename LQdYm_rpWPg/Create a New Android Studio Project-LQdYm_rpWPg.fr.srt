@@ -1,0 +1,144 @@
+1
+00:00:00,090 --> 00:00:01,880
+Une fois qu'Android Studio est installé
+
+2
+00:00:01,880 --> 00:00:02,790
+vous pouvez l'ouvrir et
+
+3
+00:00:02,790 --> 00:00:04,590
+regarder si il y a des mises à jour avant de continuer.
+
+4
+00:00:04,590 --> 00:00:07,100
+Regardez nous avons la dernière version installée,
+
+5
+00:00:07,100 --> 00:00:08,621
+donc nous pouvons fermer la fenêtre.
+
+6
+00:00:08,631 --> 00:00:11,960
+Nous allons configurer un nouveau projet en utilisant la version 1.01 d'Android Studio.
+
+7
+00:00:11,960 --> 00:00:16,490
+Si vous choses sont différentes sur votre ordinateur, ce n'est pas important.
+
+8
+00:00:16,490 --> 00:00:19,410
+C'est probablement parce que vous avez une nouvelle version d'Android Studio.
+
+9
+00:00:19,410 --> 00:00:22,020
+Pour les dernières mises à jour, pour savoir comment démarrer,
+
+10
+00:00:22,020 --> 00:00:24,260
+vous pouvez toujours regarder dans "instructor notes" en bas.
+
+11
+00:00:24,260 --> 00:00:27,240
+Maintenant cliquez ici pour commencer un nouveau projet.
+
+12
+00:00:27,240 --> 00:00:30,550
+Dans "application name", nous allons écrire le nom de l'application : Sunshine ici.
+
+13
+00:00:30,550 --> 00:00:33,180
+Ensuite nous allons fournir un nom de package correspondant.
+
+14
+00:00:33,180 --> 00:00:36,570
+Le nom du package devra être unique sur l'ensemble des packages installés
+
+15
+00:00:36,570 --> 00:00:37,540
+sur Android
+
+16
+00:00:37,540 --> 00:00:38,900
+Pour éviter des conflits,
+
+17
+00:00:38,900 --> 00:00:41,970
+utiliser l'inverse du nom de votre domaine internet que vous possédez
+
+18
+00:00:41,970 --> 00:00:44,520
+Cela suit les conventions de nommage d'un package en Java.
+
+19
+00:00:44,520 --> 00:00:46,620
+Nous allons utiliser le nom par défaut
+
+20
+00:00:46,620 --> 00:00:48,680
+car il s'agit d'une application crée pour le cours.
+
+21
+00:00:48,680 --> 00:00:52,240
+Mais on ne pourrais pas publier une application avec ce nom.
+
+22
+00:00:52,240 --> 00:00:54,840
+En général , laisser le nom par défaut du package est bien.
+
+23
+00:00:54,840 --> 00:00:58,270
+Cependant, ce cours a été fimé à l'origine avec une ancienne version
+
+24
+00:00:58,270 --> 00:01:03,110
+d'Android Studio où le module du nom de l'application était inclus par défaut.
+
+25
+00:01:03,110 --> 00:01:04,950
+Donc nous avons édité le nom du package ici, donc
+
+26
+00:01:04,950 --> 00:01:08,180
+il correspond à ce que nous avons dans l'ancienne version de Studio Android.
+
+27
+00:01:08,180 --> 00:01:10,920
+Pour que votre code corresponde a celui du cours,
+
+28
+00:01:10,920 --> 00:01:12,960
+nous vous conseillons d'ajouter le .app
+
+29
+00:01:12,960 --> 00:01:16,800
+Ensuite, nous choisissons l'endroit ou le projet sera enregistrer et on appuie sur "Next".
+
+30
+00:01:16,800 --> 00:01:19,400
+Maintenant nous devons choisir une version du SDK minimum supportée par l'appareil.
+
+31
+00:01:19,400 --> 00:01:20,940
+Dans des versions différentes d'Androîd Studio,
+
+32
+00:01:20,940 --> 00:01:24,070
+vous pourriez aussi avoir à sélectionner un SDK cible.
+
+33
+00:01:24,070 --> 00:01:27,230
+Maintenant l'assistant du projet sélectionne automatiquement un SDK cible
+
+34
+00:01:27,230 --> 00:01:29,590
+qui correspond à la version la plus récente d'Android
+
+35
+00:01:29,590 --> 00:01:30,850
+Même si elle est déjà sélectionnée
+
+36
+00:01:30,850 --> 00:01:34,480
+c'est important de faire la distinction entre le SDK minimum supporté et le SDK cible.
+
