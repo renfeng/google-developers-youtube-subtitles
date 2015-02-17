@@ -1,0 +1,25 @@
+1
+00:00:00,240 --> 00:00:04,500
+Certo. Enquanto o ajuste do Froyo 
+como um SDK mínimo permitiria o sustento
+
+2
+00:00:04,500 --> 00:00:08,550
+de 100% dos dispositivos, é a escolha 
+errada para o nosso SDK de destino.
+
+3
+00:00:08,550 --> 00:00:12,550
+Para garantir a melhor experiência de uso 
+em todos os telefones incluindo os novos
+
+4
+00:00:12,550 --> 00:00:15,390
+lançamentos KitKat, precisamos 
+ajustar nosso SDK de destino
+
+5
+00:00:15,390 --> 00:00:17,463
+para a última compilação,
+que é o KitKat.
+

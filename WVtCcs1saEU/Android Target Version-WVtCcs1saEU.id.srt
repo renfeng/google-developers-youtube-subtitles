@@ -1,0 +1,36 @@
+1
+00:00:00,033 --> 00:00:01,034
+Benar.
+
+2
+00:00:01,034 --> 00:00:03,503
+Saat menentukan Froyo sebagai
+SDK minimum,
+
+3
+00:00:03,503 --> 00:00:05,971
+membuat kita mendukung 100% perangkat,
+
+4
+00:00:05,971 --> 00:00:08,441
+merupakan pilihan yang salah
+untuk SDK target kita.
+
+5
+00:00:08,441 --> 00:00:11,111
+Untuk memastikan pengalaman terbaik
+bagi pengguna di semua telepon,
+
+6
+00:00:11,111 --> 00:00:13,146
+termasuk versi KitKat terbaru,
+
+7
+00:00:13,146 --> 00:00:15,815
+kita perlu menentukan SDK target
+pada versi terakhir,
+
+8
+00:00:15,815 --> 00:00:16,816
+yaitu Kitkat.
+

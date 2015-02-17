@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:01,384
+Así es.
+
+2
+00:00:01,384 --> 00:00:05,897
+Cuando Froyo esta como un SDK mínimo,
+podemos respaldar 100% de dispositvos
+
+3
+00:00:05,897 --> 00:00:08,407
+pero es la opción equivocada para 
+nuestro SDK final.
+
+4
+00:00:08,407 --> 00:00:10,529
+Para asegurar la mejor experiencia 
+para el usuario,
+
+5
+00:00:10,529 --> 00:00:13,148
+en todos los teléfonos,
+incluyendo los nuevos KitKat;
+
+6
+00:00:13,148 --> 00:00:15,966
+debemos poner nuestro SDK final
+a la última generación,
+
+7
+00:00:15,966 --> 00:00:17,112
+la cual es KitKat.
+
