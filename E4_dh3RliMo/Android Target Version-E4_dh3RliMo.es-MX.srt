@@ -1,0 +1,19 @@
+1
+00:00:00,340 --> 00:00:03,670
+La distribución y últimas versiones
+de Android cambian constántemente.
+
+2
+00:00:03,670 --> 00:00:06,363
+Pero de acuero a esta gráfica,
+¿cuál versión de Android
+
+3
+00:00:06,363 --> 00:00:08,686
+debe ser el SDK meta para ofrecer
+
+4
+00:00:08,686 --> 00:00:11,750
+la mejor experiencia
+en el mayor número de dispositivos?
+

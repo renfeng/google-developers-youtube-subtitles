@@ -1,0 +1,19 @@
+1
+00:00:00,340 --> 00:00:03,670
+A distribuição da última versão 
+do Android muda constantemente.
+
+2
+00:00:03,670 --> 00:00:06,363
+Mas baseado nesse gráfico,
+
+3
+00:00:06,363 --> 00:00:09,056
+qual versão do Android 
+deve ser usada no SDK
+
+4
+00:00:09,056 --> 00:00:11,750
+para oferecer a melhor experiência
+ao maior número de dispositivos?
+

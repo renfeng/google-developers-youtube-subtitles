@@ -1,0 +1,22 @@
+1
+00:00:00,166 --> 00:00:03,370
+Distribusi dan versi terakhir Android
+sering berubah.
+
+2
+00:00:03,370 --> 00:00:04,938
+Namun dari grafik ini,
+
+3
+00:00:04,938 --> 00:00:08,074
+versi Android apa yang harus menjadi
+SDK target
+
+4
+00:00:08,074 --> 00:00:09,649
+untuk memberi pengalaman terbaik
+
+5
+00:00:09,649 --> 00:00:12,070
+pada jumlah perangkat terbanyak?
+
