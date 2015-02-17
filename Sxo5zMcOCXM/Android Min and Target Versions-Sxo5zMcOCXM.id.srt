@@ -1,0 +1,202 @@
+1
+00:00:00,033 --> 00:00:02,669
+Android 1.0 diluncurkan tahun 2008.
+
+2
+00:00:02,669 --> 00:00:04,504
+Hanya butuh waktu enam tahun,
+
+3
+00:00:04,504 --> 00:00:07,507
+sudah ada 11 peluncuran platform baru.
+
+4
+00:00:08,375 --> 00:00:09,609
+Di sisi pengembang Android,
+
+5
+00:00:09,609 --> 00:00:11,911
+kami tunjukkan jumlah relatif
+perangkat Android aktif
+
+6
+00:00:11,911 --> 00:00:14,848
+yang bekerja di versi platform tertentu
+dalam diagram pie ini,
+
+7
+00:00:14,848 --> 00:00:16,449
+karena diagram ini menakjubkan.
+
+8
+00:00:17,150 --> 00:00:18,385
+Untuk tujuan kami,
+
+9
+00:00:18,385 --> 00:00:20,920
+sebaiknya Anda tidak menganggapnya
+sebagai histogram.
+
+10
+00:00:21,721 --> 00:00:26,659
+Bila bermata juling, Anda hanya melihat
+kurva berbentuk bel yang samar,
+
+11
+00:00:26,659 --> 00:00:29,329
+dengan peluncuran paling awal di kiri,
+
+12
+00:00:29,329 --> 00:00:32,899
+popularitasnya menurun karena
+perangkat di-upgrade atau diganti.
+
+13
+00:00:32,899 --> 00:00:35,935
+Proporsi perangkat terbesar ada di tengah,
+
+14
+00:00:35,935 --> 00:00:38,505
+mewakili usia perangkat sekitar 2 tahun.
+
+15
+00:00:38,505 --> 00:00:39,706
+Dan platform paling baru,
+
+16
+00:00:39,706 --> 00:00:43,209
+semakin populer saat diluncurkan
+telepon dan upgrade baru,
+
+17
+00:00:43,209 --> 00:00:44,544
+ada di kanan.
+
+18
+00:00:44,544 --> 00:00:48,281
+Dengan demikian, Min SDK berfungsi
+sebagai filter low-pass Anda.
+
+19
+00:00:48,281 --> 00:00:50,550
+Google Play tidak memunculkan
+app Anda di perangkat yang
+
+20
+00:00:50,550 --> 00:00:54,120
+menjalankan versi platform lebih rendah
+dari versi SDK minimumnya.
+
+21
+00:00:54,120 --> 00:00:57,257
+Lalu kenapa tidak menentukan saja Min SDK
+untuk satu versi dan mendukung semuanya?
+
+22
+00:00:58,057 --> 00:01:00,994
+Pada dasarnya, Anda ingin membidik
+sebanyak mungkin pengguna,
+
+23
+00:01:00,994 --> 00:01:04,730
+namun ada akibat yang terkait dengan
+mendukung sebagian versi lama ini.
+
+24
+00:01:04,730 --> 00:01:08,735
+Seperti membuat jalur eksekusi berbeda
+untuk API usang atau update
+
+25
+00:01:08,735 --> 00:01:11,971
+atau menyajikan UX berbeda untuk
+perangkat dengan fitur berbeda.
+
+26
+00:01:12,372 --> 00:01:15,375
+Maka Anda harus mengimbangi peluang
+memperluas audiens
+
+27
+00:01:15,375 --> 00:01:18,011
+dengan akibat mendukung pengguna baru itu.
+
+28
+00:01:18,011 --> 00:01:23,283
+Dan ingat setiap peluncuran menyertakan
+dukungan API dan perangkat keras baru.
+
+29
+00:01:23,283 --> 00:01:26,152
+Jadi mungkin tak masuk di akal
+membuat app Anda tersedia untuk perangkat
+
+30
+00:01:26,152 --> 00:01:28,154
+yang tidak mendukung fitur minimum
+yang ditentukan.
+
+31
+00:01:29,055 --> 00:01:33,159
+Bandingkan, Target SDK bukanlah
+filter high-pass.
+
+32
+00:01:33,159 --> 00:01:36,463
+Itu hanya digunakan untuk menyatakan
+versi platform apa yang Anda uji.
+
+33
+00:01:37,397 --> 00:01:39,098
+App yang ditargetkan untuk API tertentu
+
+34
+00:01:39,098 --> 00:01:42,202
+akan selalu kompatibel di peluncuran
+mendatang.
+
+35
+00:01:42,202 --> 00:01:44,604
+Platform menggunakan nilai Target SDK
+
+36
+00:01:44,604 --> 00:01:48,575
+bila platform mendatang melakukan
+perubahan signifikan pada behavior.
+
+37
+00:01:48,575 --> 00:01:52,011
+Ini memastikan App anda tidak rusak
+saat telepon pengguna di-upgrade.
+
+38
+00:01:52,645 --> 00:01:54,380
+Bila Anda membuat app baru,
+
+39
+00:01:54,380 --> 00:01:57,984
+harus membidik versi Android terakhir.
+
+40
+00:01:57,984 --> 00:01:59,686
+Dan setelah app Anda diluncurkan,
+
+41
+00:01:59,686 --> 00:02:02,055
+tentukan saatnya untuk meng-update
+Target SDK
+
+42
+00:02:02,055 --> 00:02:05,458
+dan lakukan tes sesegera mungkin
+saat platform baru diluncurkan
+
+43
+00:02:05,458 --> 00:02:06,759
+agar Anda dapat memanfaatkan
+
+44
+00:02:06,759 --> 00:02:10,497
+tiap optimasi dan perbaikan platform baru
+yang harus ditawarkan.
+

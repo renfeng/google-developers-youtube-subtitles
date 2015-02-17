@@ -1,0 +1,170 @@
+1
+00:00:00,310 --> 00:00:04,858
+Android 1.0 fue lanzado en el 2008.
+Y tan sólo seis años después,
+
+2
+00:00:04,858 --> 00:00:09,880
+ya ha habido 11 nuevos grandes
+lanzamientos de plataformas.
+
+3
+00:00:09,880 --> 00:00:12,691
+Del lado del desarrollador de Android,
+mostramos el número relativo
+
+4
+00:00:12,691 --> 00:00:15,502
+de dispositivos Android
+que operan cierta versión de plataforma
+
+5
+00:00:15,502 --> 00:00:18,314
+en este gráfico de torta, 
+porque son gráficos buenísimos.
+
+6
+00:00:18,314 --> 00:00:22,700
+Para nuestros propósitos, es mejor
+ver este histograma. Si entrecierras
+
+7
+00:00:22,700 --> 00:00:27,715
+los ojos, casi puedes ver una figura
+de campana, con las publicaciones
+
+8
+00:00:27,715 --> 00:00:30,510
+más viejas a la izquierda, 
+su popularidad decae a medida
+
+9
+00:00:30,510 --> 00:00:33,305
+que los dispositivos mejoran
+o son remplazados.
+
+10
+00:00:33,305 --> 00:00:36,100
+La porción más grande de dispositivos
+está aquí en el centro,
+
+11
+00:00:36,100 --> 00:00:38,556
+representando aparatos de dos años.
+Y las plataformas más nuevas
+
+12
+00:00:41,012 --> 00:00:43,470
+se hacen populares a medida que 
+los nuevos teléfonos o las mejoras salen.
+
+13
+00:00:43,470 --> 00:00:47,523
+Eso se ve aquí a la derecha.
+Con esto en mente, el Min SDK
+
+14
+00:00:47,523 --> 00:00:51,980
+actúa como un filtro de bajo paso. 
+Google Play no mostrará tu app
+
+15
+00:00:51,980 --> 00:00:56,660
+en los dispositivos con versión inferior
+a la mínima SDK. ¿No es mejor entonces
+
+16
+00:00:56,660 --> 00:01:01,400
+poner el SDK mínimo y apoyar a todos?
+Es bueno apuntar hacia la mayor cantidad
+
+17
+00:01:01,400 --> 00:01:05,040
+de usuarios, pero hay un costo asociado
+con apoyar algunas versiones viejas.
+
+18
+00:01:05,040 --> 00:01:07,830
+Cosas como crear distinos caminos
+de ejecución lejos de los APIs viejos
+
+19
+00:01:07,830 --> 00:01:12,730
+o actualizarlos, o dar un UX distinto
+a los aparatos con diferentes cualidades.
+
+20
+00:01:12,730 --> 00:01:16,360
+Necesitas balancear la oportunidad
+de expandir tu público, con el costo
+
+21
+00:01:16,360 --> 00:01:21,480
+de apoyar a estos nuevos usuarios.
+Recuerda que cada lanzamiento
+
+22
+00:01:21,480 --> 00:01:24,900
+trae nuevos APIs y apoyo al hardware.
+Tal vez no tenga sentido poner tu app
+
+23
+00:01:24,900 --> 00:01:28,190
+a disponsibilidad de los dispositivos
+que no apoyan tus cualidades mínimas.
+
+24
+00:01:29,220 --> 00:01:33,430
+En comparación, el Target SDK
+no es un filtro de alto paso.
+
+25
+00:01:33,430 --> 00:01:36,460
+Sólo se usa para declarar cuál versión 
+de plataforma has usado para pruebas.
+
+26
+00:01:37,628 --> 00:01:41,060
+Un app con cierto API como objetivo
+seguirá siendo compatible a futuro
+
+27
+00:01:41,060 --> 00:01:45,650
+con los lanzamientos. La plataforma
+usa valores del Target SDK
+
+28
+00:01:45,650 --> 00:01:48,640
+en caso de que una plataforma futura
+haga un gran cambio
+
+29
+00:01:48,640 --> 00:01:51,630
+a un comportamiento esperado.
+Esto asegura que tu app
+
+30
+00:01:51,630 --> 00:01:54,620
+no se quiebre cuando un usuario mejora
+su teléfono. Si desarrollas un app,
+
+31
+00:01:54,620 --> 00:01:58,630
+no hay razón para apuntar hacia otra cosa
+que la última versión de Android.
+
+32
+00:01:58,630 --> 00:02:02,340
+Una vez que tu app se lance, asegúrate
+de actualizar tu Target SDK
+
+33
+00:02:02,340 --> 00:02:06,610
+y hacer pruebas tan pronto la nueva
+plataforma se lance
+
+34
+00:02:06,610 --> 00:02:10,570
+para poder aprovechar cada nueva 
+optimización y mejora que se ofrezca.
+

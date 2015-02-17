@@ -1,0 +1,128 @@
+1
+00:00:00,310 --> 00:00:04,858
+Android 1.0 a été lancé en 2008. Et depuis 6 ans il
+
+2
+00:00:04,858 --> 00:00:09,880
+y a eu 11 améliorations majeures de la plateforme. Sur le site d' Android coté développeur,
+
+3
+00:00:09,880 --> 00:00:13,370
+Nous montrons le nombre d'appareils mobile utilisant Android avec différentes versions dans ce diagramme circulaire
+
+4
+00:00:13,460 --> 00:00:18,314
+parce que il est joli.
+
+5
+00:00:18,314 --> 00:00:22,700
+Pour nos besoin, vous comprendrez mieux sous la forme d'un histogramme. Si vous plissez des yeux
+
+6
+00:00:22,700 --> 00:00:27,715
+vous pouvez presque voir une courbe vaguement en forme de cloche, avec les versions plus anciennes ici
+
+7
+00:00:27,715 --> 00:00:31,858
+à gauche, leurs popularités ont baissés lorsque les appareils ont été amélioré ou
+
+8
+00:00:31,858 --> 00:00:36,100
+remplacé. La plus grande proportion d'appareils mobile est au milieu,
+
+9
+00:00:36,100 --> 00:00:40,020
+qui représente des appareils qui ont environ 2 ans. Et les nouvelles plateformes,
+
+10
+00:00:40,020 --> 00:00:43,470
+qui ont gagnés en popularité lorsque que sont sortis de nouveaux téléphones plus performants,
+
+11
+00:00:43,470 --> 00:00:47,523
+sont vers la droite. Donc avec ça en tête, le SDK minimum agit comme un filtre aux anciennes versions.
+
+12
+00:00:47,523 --> 00:00:51,980
+Google Play ne montrera pas votre application sur des appareils utilisant une version
+
+13
+00:00:51,980 --> 00:00:56,660
+plus ancienne que celle choisie par le SDK minimum. Donc pourquoi pas juste prendre la 1ère version d'android comme SDK min.
+
+14
+00:00:56,660 --> 00:00:59,453
+pour supporter toutes les plateformes ? Géneralement, vous aurez envie de cibler
+
+15
+00:00:59,453 --> 00:01:02,246
+autant d'utilisateurs que vous le pouvez, mais
+
+16
+00:01:02,246 --> 00:01:05,040
+il y a des inconvénients à soutenir certaines de ces anciennes versions.
+
+17
+00:01:05,040 --> 00:01:07,830
+Des choses comme créer différents chemins d’exécutions est déconseillé,ou
+
+18
+00:01:07,830 --> 00:01:12,730
+faire des mise à jours et également présenter un UX (interface utilisateur) qui diffère entre les appareils à cause de leurs caractéristiques.
+
+19
+00:01:12,730 --> 00:01:18,120
+Donc il faut trouver le juste milieu entre l'opportunité d'étendre votre audience avec les inconvénients des utilisateurs utilisant une version ancienne.
+
+20
+00:01:18,120 --> 00:01:21,560
+Aussi, n'oubliez pas que chaque version a introduit avec elle
+
+21
+00:01:21,560 --> 00:01:24,900
+une nouvelles API et une prise en charge matérielle. Donc, il ne serait pas logique
+
+22
+00:01:24,900 --> 00:01:28,810
+de rendre votre application disponible pour des appareils qui ne pourront pas supporter des fonctionnalités minimales de votre app.
+
+23
+00:01:28,810 --> 00:01:32,360
+Par comparaison, le SDK cible n'est pas un filtre pour les nouvelles versions.
+
+24
+00:01:32,360 --> 00:01:35,390
+Il est utilisé uniquement pour déclarer sur quelle version de plate-forme, vous avez testé votre application.
+
+25
+00:01:37,628 --> 00:01:41,060
+Une application ciblée à une certaine API continuera d'être compatible sur les
+
+26
+00:01:41,060 --> 00:01:45,650
+versions récentes. La plateforme utilise les valeurs du SDK cible dans le cas où une future
+
+27
+00:01:45,650 --> 00:01:50,040
+plate-forme apporte une modification importante au comportement attendu.
+
+28
+00:01:50,040 --> 00:01:54,620
+Cela garantit que votre application fonctionne toujours lorsque téléphone d'un utilisateur est à jour. Si vous développez une nouvelle application,
+
+29
+00:01:54,620 --> 00:01:58,630
+Il y a aucune raison de cibler un SDK quelconque sauf la dernière version d'Android. Et
+
+30
+00:01:58,630 --> 00:02:02,340
+une fois que votre application a été publiée, fait un point pour mettre à jour votre SDK cible et tester
+
+31
+00:02:02,340 --> 00:02:06,610
+dès que possible quand une nouvelle mise à jour de plateforme sort.Puis saisissez
+
+32
+00:02:06,610 --> 00:02:10,570
+les avantages de chaque nouvelles plateformes en terme d'optimisation et d'amélioration.
+
