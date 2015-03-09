@@ -1,0 +1,265 @@
+1
+00:00:00,000 --> 00:00:02,742
+
+2
+00:00:02,742 --> 00:00:03,825
+SPEAKER 1: Hello everyone.
+
+3
+00:00:03,825 --> 00:00:04,385
+SPEAKER 2: Hi.
+
+4
+00:00:04,385 --> 00:00:06,509
+SPEAKER 3: Today's episode
+is all about good times.
+
+5
+00:00:06,509 --> 00:00:08,840
+SPEAKER 4: First thing,
+you need a Google account.
+
+6
+00:00:08,840 --> 00:00:10,625
+If you don't have one,
+that's easy to fix.
+
+7
+00:00:10,625 --> 00:00:12,140
+SPEAKER 5: Doing
+so will reward you
+
+8
+00:00:12,140 --> 00:00:14,640
+with a plethora of colors
+and bars on your device.
+
+9
+00:00:14,640 --> 00:00:16,995
+SPEAKER 3: Engaging users
+in an immersive, enjoyable
+
+10
+00:00:16,995 --> 00:00:17,495
+experience.
+
+11
+00:00:17,495 --> 00:00:19,970
+SPEAKER 2: To help you make
+your graphics look their best.
+
+12
+00:00:19,970 --> 00:00:21,520
+SPEAKER 6: That
+kind of intelligence
+
+13
+00:00:21,520 --> 00:00:22,954
+will be built
+inside the software.
+
+14
+00:00:22,954 --> 00:00:24,370
+SPEAKER 7: Our
+team here at Google
+
+15
+00:00:24,370 --> 00:00:25,790
+works closely with
+app developers.
+
+16
+00:00:25,790 --> 00:00:27,267
+SPEAKER 8: What
+kind of challenges
+
+17
+00:00:27,267 --> 00:00:29,100
+do you see developers
+facing and what are we
+
+18
+00:00:29,100 --> 00:00:30,475
+doing to make
+their lives easier?
+
+19
+00:00:30,475 --> 00:00:32,634
+SPEAKER 9: Great apps
+engage all learners.
+
+20
+00:00:32,634 --> 00:00:34,300
+And so we did a very
+simple web app that
+
+21
+00:00:34,300 --> 00:00:36,642
+lets you type in your address
+and the age of your kid,
+
+22
+00:00:36,642 --> 00:00:38,100
+and it would tell
+you which schools
+
+23
+00:00:38,100 --> 00:00:39,205
+you were eligible to attend.
+
+24
+00:00:39,205 --> 00:00:41,163
+SPEAKER 10: So you can
+think of today's episode
+
+25
+00:00:41,163 --> 00:00:42,550
+as a little bit of extra credit.
+
+26
+00:00:42,550 --> 00:00:44,462
+SPEAKER 2: So how
+does this help you?
+
+27
+00:00:44,462 --> 00:00:45,670
+SPEAKER 4: Let's take a look.
+
+28
+00:00:45,670 --> 00:00:46,400
+SPEAKER 3: Look.
+
+29
+00:00:46,400 --> 00:00:48,460
+That dinner reservation
+is on my Google calendar
+
+30
+00:00:48,460 --> 00:00:49,210
+so I don't forget.
+
+31
+00:00:49,210 --> 00:00:52,140
+SPEAKER 11: These are things
+that you can worry less about.
+
+32
+00:00:52,140 --> 00:00:54,200
+SPEAKER 9: But with a
+fundamental understanding
+
+33
+00:00:54,200 --> 00:00:55,975
+of how the digital world works.
+
+34
+00:00:55,975 --> 00:00:57,530
+SPEAKER 3: Highlighting
+what matters most to users.
+
+35
+00:00:57,530 --> 00:00:59,270
+SPEAKER 10: But I want to
+show you something here.
+
+36
+00:00:59,270 --> 00:01:00,728
+SPEAKER 4: What if
+I told you I was
+
+37
+00:01:00,728 --> 00:01:03,520
+going to do it without using a
+database or a back-end server?
+
+38
+00:01:03,520 --> 00:01:05,019
+SPEAKER 8: Sounds
+like a lot of fun.
+
+39
+00:01:05,019 --> 00:01:06,946
+SPEAKER 10: Whoa.
+
+40
+00:01:06,946 --> 00:01:09,036
+SPEAKER 5: This is the
+type of technical minutia
+
+41
+00:01:09,036 --> 00:01:09,910
+that's worth knowing.
+
+42
+00:01:09,910 --> 00:01:11,830
+SPEAKER 9: They've
+never before realized
+
+43
+00:01:11,830 --> 00:01:13,870
+how important geeks are.
+
+44
+00:01:13,870 --> 00:01:16,254
+SPEAKER 8: One billion active.
+
+45
+00:01:16,254 --> 00:01:16,920
+SPEAKER 11: Yes.
+
+46
+00:01:16,920 --> 00:01:18,660
+SPEAKER 9: And you'll end up
+with a community of people
+
+47
+00:01:18,660 --> 00:01:20,557
+that you really enjoy
+and feeling really
+
+48
+00:01:20,557 --> 00:01:22,640
+good about the work that
+you guys can do together.
+
+49
+00:01:22,640 --> 00:01:24,389
+SPEAKER 3: Well, these
+are just some ideas
+
+50
+00:01:24,389 --> 00:01:26,980
+of how to take good experiences
+and making them great.
+
+51
+00:01:26,980 --> 00:01:28,785
+SPEAKER 4: So now we're done.
+
+52
+00:01:28,785 --> 00:01:31,600
+SPEAKER 5: Don't forget to join
+our Google+ community as well.
+
+53
+00:01:31,600 --> 00:01:33,175
+SPEAKER 6: And make
+software more intelligent.
+
+54
+00:01:33,175 --> 00:01:34,960
+SPEAKER 3: And Google
+takes care of the rest.
+
+55
+00:01:34,960 --> 00:01:36,251
+SPEAKER 4: Thanks for watching.
+
+56
+00:01:36,251 --> 00:01:39,950
+SPEAKER 3: Hope we get an
+opportunity to serve you again.
+
+57
+00:01:39,950 --> 00:01:53,499
+
